@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Contact — Racheldesignscorner</title>
+  <script src="js/theme-toggle.js"></script>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/utilities.css">
+  <link rel="stylesheet" href="css/components/header.css">
+  <link rel="stylesheet" href="css/components/footer.css">
+  <link rel="stylesheet" href="css/components/page.css">
+</head>
+<body>
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><img src="https://i.etsystatic.com/62385400/r/isla/dad3f8/81233673/isla_100x100.81233673_b9sf6ld0.jpg" alt="Racheldesignscorner" class="logo-img"><span class="logo-text">Racheldesignscorner</span></a>
+      <nav class="nav-desktop">
+        <a href="index.html">Home</a>
+        <a href="products.html?cat=bestsellers">Bestsellers</a>
+        <a href="products.html">All Products</a>
+        <a href="index.html#reviews">Reviews</a>
+        <a href="index.html#about">About</a>
+        <a href="contact.html" class="active">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <button class="theme-toggle" aria-label="Toggle theme"><span class="icon-moon">🌙</span><span class="icon-sun">☀️</span></button>
+        <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+  <nav class="nav-mobile">
+    <div class="nav-mobile-header">
+      <span class="logo"><span class="logo-text">Racheldesignscorner</span></span>
+      <button class="nav-mobile-close" aria-label="Close">✕</button>
+    </div>
+    <a href="index.html">Home</a>
+    <a href="products.html?cat=bestsellers">Bestsellers</a>
+    <a href="products.html">All Products</a>
+    <a href="index.html#reviews">Reviews</a>
+    <a href="index.html#about">About</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+  <div class="overlay"></div>
+
+  <div class="page-hero">
+    <h1>Contact Us</h1>
+    <p>We'd love to hear from you</p>
+  </div>
+
+  <div class="container page-body">
+    <div class="contact-layout">
+      <div class="contact-info">
+        <h2>Racheldesignscorner</h2>
+        <div class="contact-address">
+          <p>470 NORTH BRIDGE ROAD</p>
+          <p>#05-12</p>
+          <p>BUGIS CUBE</p>
+          <p>Singapore 188735</p>
+        </div>
+        <p style="margin-top:2rem;color:var(--text-secondary);line-height:1.8;">If you have any additional questions about our products, shipping and other things, please contact us using the form below. You can also contact us by texting us using one of the messengers listed above or by writing to our email address.</p>
+      </div>
+      <div class="contact-form-wrap">
+        <form class="contact-form" onsubmit="event.preventDefault(); alert('Thank you! Your message has been sent. We will get back to you shortly.'); this.reset();">
+          <div class="form-field"><input type="text" placeholder="Your name" required></div>
+          <div class="form-field"><input type="email" placeholder="Your email" required></div>
+          <div class="form-field"><input type="text" placeholder="Subject"></div>
+          <div class="form-field"><textarea placeholder="Your message" rows="6" required></textarea></div>
+          <button type="submit" class="btn-submit">Send Message</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer" style="margin-top:3rem;">
+    <div class="container">
+      <div class="footer-bottom">
+        <p style="font-size:12px;color:var(--text-muted);margin-bottom:8px;">Racheldesignscorner · 470 NORTH BRIDGE ROAD #05-12 BUGIS CUBE Singapore 188735</p>
+        <span>© 2026 Racheldesignscorner. All rights reserved.</span>
+      </div>
+    </div>
+  </footer>
+  <script src="js/header.js"></script>
+</body>
+</html>

@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Products — Racheldesignscorner</title>
+  <script src="js/theme-toggle.js"></script>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/utilities.css">
+  <link rel="stylesheet" href="css/components/header.css">
+  <link rel="stylesheet" href="css/components/footer.css">
+  <link rel="stylesheet" href="css/components/products.css">
+  <link rel="stylesheet" href="css/components/page.css">
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><img src="https://i.etsystatic.com/62385400/r/isla/dad3f8/81233673/isla_100x100.81233673_b9sf6ld0.jpg" alt="Racheldesignscorner" class="logo-img"><span class="logo-text">Racheldesignscorner</span></a>
+      <nav class="nav-desktop">
+        <a href="index.html">Home</a>
+        <a href="products.html" class="active">All Products</a>
+        <a href="index.html#reviews">Reviews</a>
+        <a href="index.html#about">About</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+      <div class="header-actions">
+        <button class="theme-toggle" aria-label="Toggle theme">
+          <span class="icon-moon">🌙</span>
+          <span class="icon-sun">☀️</span>
+        </button>
+        <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+  <nav class="nav-mobile">
+    <div class="nav-mobile-header">
+      <span class="logo"><span class="logo-text">Racheldesignscorner</span></span>
+      <button class="nav-mobile-close" aria-label="Close">✕</button>
+    </div>
+    <a href="index.html">Home</a>
+    <a href="products.html">All Products</a>
+    <a href="index.html#reviews">Reviews</a>
+    <a href="index.html#about">About</a>
+    <a href="index.html#contact">Contact</a>
+  </nav>
+  <div class="overlay"></div>
+
+  <!-- Page Content -->
+  <div class="page-hero">
+    <h1 id="pageTitle">All Products</h1>
+    <p id="productCount">Loading...</p>
+  </div>
+  <script>
+    var _p = new URLSearchParams(window.location.search);
+    if (_p.get('cat') === 'bestsellers') {
+      document.getElementById('pageTitle').textContent = 'Bestsellers';
+      document.title = 'Bestsellers — Racheldesignscorner';
+    }
+  </script>
+
+  <div class="container page-body">
+    <div class="page-filters" id="pageFilters"></div>
+    <div class="page-search-wrap">
+      <input type="text" class="page-search" placeholder="🔍 Search products..." id="pageSearch">
+    </div>
+    <div class="products-grid page-grid" id="pageGrid"></div>
+    <div class="products-footer">
+      <button class="load-more-btn" id="pageLoadMore" style="display:none;">Load More</button>
+    </div>
+  </div>
+
+  <!-- Product Modal -->
+  <div class="product-modal" id="productModal">
+    <div class="product-modal-content">
+      <button class="product-modal-close" id="modalClose">&times;</button>
+      <div class="product-modal-body">
+        <div class="product-modal-gallery">
+          <img class="product-modal-main-img" id="modalMainImg" src="" alt="">
+          <div class="product-modal-thumbs" id="modalThumbs"></div>
+        </div>
+        <div class="product-modal-info">
+          <h2 class="product-modal-title" id="modalTitle"></h2>
+          <p class="product-modal-price" id="modalPrice"></p>
+          <div class="product-modal-desc" id="modalDesc"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer" style="margin-top:3rem;">
+    <div class="container">
+      <div class="footer-bottom">
+        <span>© 2026 Racheldesignscorner. All rights reserved.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/products-data.js"></script>
+  <script src="js/page-products.js"></script>
+  <script src="js/header.js"></script>
+</body>
+</html>

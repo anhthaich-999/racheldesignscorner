@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Manager — Racheldesignscorner</title>
+  <script src="js/theme-toggle.js"></script>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/utilities.css">
+  <link rel="stylesheet" href="css/components/header.css">
+  <link rel="stylesheet" href="css/components/admin.css">
+</head>
+<body>
+
+  <header class="header">
+    <div class="header-inner">
+      <a href="index.html" class="logo"><img src="https://i.etsystatic.com/62385400/r/isla/dad3f8/81233673/isla_100x100.81233673_b9sf6ld0.jpg" alt="Racheldesignscorner" class="logo-img"><span class="logo-text">Racheldesignscorner</span></a>
+      <nav class="nav-desktop">
+        <a href="index.html">Home</a>
+        <a href="products.html">All Products</a>
+        <a href="admin.html" class="active">🔧 Admin</a>
+      </nav>
+      <div class="header-actions">
+        <button class="theme-toggle" aria-label="Toggle theme"><span class="icon-moon">🌙</span><span class="icon-sun">☀️</span></button>
+        <button class="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+      </div>
+    </div>
+  </header>
+  <nav class="nav-mobile">
+    <div class="nav-mobile-header"><span class="logo"><span class="logo-text">Racheldesignscorner</span></span><button class="nav-mobile-close" aria-label="Close">✕</button></div>
+    <a href="index.html">Home</a>
+    <a href="products.html">All Products</a>
+    <a href="admin.html">🔧 Admin</a>
+  </nav>
+  <div class="overlay"></div>
+
+  <div class="page-hero">
+    <h1>🔧 Product Manager</h1>
+    <p>Upload CSV to update your store products</p>
+  </div>
+
+  <div class="container admin-body">
+
+    <!-- Drop Zone -->
+    <div class="drop-zone" id="dropZone">
+      <div class="drop-zone-icon">📁</div>
+      <div class="drop-zone-text">Drop your Etsy CSV file here</div>
+      <div class="drop-zone-hint">or click to browse • Supports Etsy CSV export format</div>
+      <input type="file" id="csvFile" accept=".csv">
+    </div>
+
+    <!-- Preview Section (hidden until CSV loaded) -->
+    <div id="previewSection" style="display:none;">
+
+      <!-- Stats -->
+      <div class="admin-stats" id="adminStats"></div>
+
+      <!-- Category Breakdown -->
+      <div class="cat-breakdown" id="catBreakdown"></div>
+
+      <!-- Preview Table -->
+      <div class="preview-wrap">
+        <table class="preview-table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Image</th>
+              <th>Title</th>
+              <th>Price</th>
+              <th>Category</th>
+              <th>Images</th>
+            </tr>
+          </thead>
+          <tbody id="previewBody"></tbody>
+        </table>
+        <div class="table-pagination" id="pagination"></div>
+      </div>
+
+      <!-- Actions -->
+      <div class="admin-actions">
+        <button class="btn-export" id="exportBtn" disabled>💾 Download products-data.js</button>
+      </div>
+
+    </div>
+
+    <!-- Instructions -->
+    <div class="instructions">
+      <h3>📋 How to update your store</h3>
+      <ol>
+        <li>Go to <strong>Etsy Shop Manager</strong> → Settings → Options → Download Data → <strong>Download CSV</strong></li>
+        <li>Drag & drop the CSV file into the box above</li>
+        <li>Preview your products and check categories</li>
+        <li>Click <strong>"Download products-data.js"</strong></li>
+        <li>Copy the downloaded file to <code>D:\tool\wedding-website\js\</code> (replace the old one)</li>
+        <li>Refresh your website — done! 🎉</li>
+      </ol>
+    </div>
+
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script src="js/admin.js"></script>
+  <script src="js/header.js"></script>
+</body>
+</html>

@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Checkout — Racheldesignscorner</title>
+  <script src="js/theme-toggle.js"></script>
+  <link rel="stylesheet" href="css/variables.css">
+  <link rel="stylesheet" href="css/base.css">
+  <link rel="stylesheet" href="css/layout.css">
+  <link rel="stylesheet" href="css/theme.css">
+  <link rel="stylesheet" href="css/utilities.css">
+  <link rel="stylesheet" href="css/components/header.css">
+  <link rel="stylesheet" href="css/components/checkout.css">
+</head>
+<body>
+
+  <!-- Checkout Header -->
+  <div class="checkout-header">
+    <a href="index.html" class="checkout-logo">
+      <img src="https://i.etsystatic.com/62385400/r/isla/dad3f8/81233673/isla_100x100.81233673_b9sf6ld0.jpg" alt="Logo" class="logo-img">
+      <span>Racheldesignscorner</span>
+    </a>
+  </div>
+
+  <!-- Breadcrumb Steps -->
+  <div class="checkout-steps">
+    <span class="step active">Information</span>
+    <span class="step-arrow">›</span>
+    <span class="step">Shipping</span>
+    <span class="step-arrow">›</span>
+    <span class="step">Payment</span>
+  </div>
+
+  <div class="checkout-layout">
+
+    <!-- LEFT: Form -->
+    <div class="checkout-form">
+
+      <!-- Contact -->
+      <div class="form-section">
+        <h3>Contact</h3>
+        <div class="form-field">
+          <input type="email" id="email" placeholder="Email address" required>
+        </div>
+        <label class="form-checkbox">
+          <input type="checkbox" checked> Email me with news and offers
+        </label>
+      </div>
+
+      <!-- Delivery -->
+      <div class="form-section">
+        <h3>Delivery</h3>
+        <div class="form-field">
+          <select id="country">
+            <option value="US">United States</option>
+            <option value="CA">Canada</option>
+            <option value="GB">United Kingdom</option>
+            <option value="AU">Australia</option>
+            <option value="DE">Germany</option>
+            <option value="FR">France</option>
+            <option value="VN">Vietnam</option>
+            <option value="JP">Japan</option>
+            <option value="KR">South Korea</option>
+            <option value="OTHER">Other</option>
+          </select>
+        </div>
+        <div class="form-row">
+          <div class="form-field"><input type="text" id="firstName" placeholder="First name" required></div>
+          <div class="form-field"><input type="text" id="lastName" placeholder="Last name" required></div>
+        </div>
+        <div class="form-field">
+          <input type="text" id="address" placeholder="Address" required>
+        </div>
+        <div class="form-field">
+          <input type="text" id="apartment" placeholder="Apartment, suite, etc. (optional)">
+        </div>
+        <div class="form-row form-row-3">
+          <div class="form-field"><input type="text" id="city" placeholder="City" required></div>
+          <div class="form-field"><input type="text" id="state" placeholder="State" required></div>
+          <div class="form-field"><input type="text" id="zip" placeholder="ZIP code" required></div>
+        </div>
+        <div class="form-field">
+          <input type="tel" id="phone" placeholder="Phone (optional)">
+        </div>
+      </div>
+
+      <!-- Shipping Method -->
+      <div class="form-section">
+        <h3>Shipping method</h3>
+        <div class="shipping-options">
+          <label class="shipping-option active">
+            <input type="radio" name="shipping" value="standard" checked>
+            <div class="shipping-info">
+              <span class="shipping-name">Standard Shipping</span>
+              <span class="shipping-time">7-14 business days</span>
+            </div>
+            <span class="shipping-price">Free</span>
+          </label>
+          <label class="shipping-option">
+            <input type="radio" name="shipping" value="express">
+            <div class="shipping-info">
+              <span class="shipping-name">Express Shipping</span>
+              <span class="shipping-time">3-5 business days</span>
+            </div>
+            <span class="shipping-price">$12.99</span>
+          </label>
+        </div>
+      </div>
+
+      <!-- Payment -->
+      <div class="form-section">
+        <h3>Payment</h3>
+        <p class="form-hint">All transactions are secure and encrypted.</p>
+        <div class="payment-box">
+          <div class="payment-header">
+            <span>Credit card</span>
+            <div class="card-icons">
+              <span class="card-icon">VISA</span>
+              <span class="card-icon">MC</span>
+              <span class="card-icon">AMEX</span>
+            </div>
+          </div>
+          <div class="payment-fields">
+            <div class="form-field">
+              <input type="text" id="cardNumber" placeholder="Card number" maxlength="19">
+            </div>
+            <div class="form-row">
+              <div class="form-field"><input type="text" id="cardExpiry" placeholder="Expiration date (MM/YY)" maxlength="5"></div>
+              <div class="form-field"><input type="text" id="cardCVV" placeholder="Security code" maxlength="4"></div>
+            </div>
+            <div class="form-field">
+              <input type="text" id="cardName" placeholder="Name on card">
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <button class="btn-pay" id="payBtn">Pay now</button>
+
+      <div class="checkout-footer-links">
+        <a href="#">Refund Policy</a>
+        <a href="#">Shipping Policy</a>
+        <a href="#">Privacy Policy</a>
+        <a href="#">Terms of Service</a>
+      </div>
+    </div>
+
+    <!-- RIGHT: Order Summary -->
+    <div class="checkout-summary">
+      <div class="summary-sticky">
+        <h3 class="summary-title">Order summary</h3>
+
+        <div class="summary-product" id="summaryProduct">
+          <div class="summary-product-img">
+            <img id="sumImg" src="" alt="">
+            <span class="summary-qty" id="sumQtyBadge">1</span>
+          </div>
+          <div class="summary-product-info">
+            <p class="summary-product-name" id="sumName">Loading...</p>
+            <p class="summary-product-variant" id="sumVariant"></p>
+          </div>
+          <span class="summary-product-price" id="sumPrice">$0.00</span>
+        </div>
+
+        <div class="summary-divider"></div>
+
+        <div class="summary-line">
+          <span>Subtotal</span>
+          <span id="sumSubtotal">$0.00</span>
+        </div>
+        <div class="summary-line">
+          <span>Shipping</span>
+          <span id="sumShipping">Free</span>
+        </div>
+        <div class="summary-divider"></div>
+        <div class="summary-line summary-total">
+          <span>Total</span>
+          <span id="sumTotal">$0.00</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Success Modal -->
+  <div class="success-modal" id="successModal">
+    <div class="success-content">
+      <div class="success-icon">✓</div>
+      <h2>Order Confirmed!</h2>
+      <p>Thank you for your purchase. You'll receive a confirmation email shortly.</p>
+      <p class="success-order-id" id="successOrderId"></p>
+      <a href="index.html" class="btn-back-home">Continue Shopping</a>
+    </div>
+  </div>
+
+  <script src="js/products-data.js"></script>
+  <script src="js/page-checkout.js"></script>
+</body>
+</html>
