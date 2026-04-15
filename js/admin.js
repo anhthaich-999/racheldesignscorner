@@ -3,6 +3,7 @@
    ============================================== */
 (function () {
   var products = [];
+  var existingProducts = (typeof PRODUCTS_DATA !== 'undefined') ? PRODUCTS_DATA : [];
   var currentPage = 1;
   var perPage = 50;
 
@@ -84,7 +85,8 @@
   // ========== PROCESS CSV ==========
   function processCSV(text) {
     var rows = parseCSV(text);
-    products = rows.map(function (row, idx) {
+    var mode = document.querySelector('input[name="uploadMode"]:checked').value;
+    var newProducts = rows.map(function (row, idx) {
       var images = [];
       for (var j = 1; j <= 10; j++) {
         var key = 'IMAGE' + j;
@@ -123,7 +125,18 @@
       };
     });
 
-    showToast('Parsed ' + products.length + ' products!');
+    if (mode === 'merge') {
+      // Merge: keep existing + add new (re-index IDs)
+      var maxId = 0;
+      existingProducts.forEach(function(p) { if (p.id > maxId) maxId = p.id; });
+      newProducts.forEach(function(p, i) { p.id = maxId + i + 1; });
+      products = existingProducts.concat(newProducts);
+      showToast('Merged! ' + existingProducts.length + ' existing + ' + newProducts.length + ' new = ' + products.length + ' total');
+    } else {
+      // Replace: only use new
+      products = newProducts;
+      showToast('Replaced! ' + products.length + ' products');
+    }
     renderStats();
     renderCategoryBreakdown();
     currentPage = 1;
@@ -267,4 +280,12 @@
   }
 
   function esc(s) { var d = document.createElement('div'); d.textContent = s; return d.innerHTML; }
+
+  // Show current product count on load
+  var currentCountEl = document.getElementById('currentCount');
+  if (currentCountEl && existingProducts.length > 0) {
+    currentCountEl.textContent = '📦 Hiện tại: ' + existingProducts.length + ' sản phẩm trong website';
+  } else if (currentCountEl) {
+    currentCountEl.textContent = '📦 Hiện tại: 0 sản phẩm';
+  }
 })();
