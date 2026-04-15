@@ -1,4 +1,4 @@
-﻿var PRODUCTS_DATA = [
+var PRODUCTS_DATA = [
   {
     "id": 1,
     "title": "Custom Volleyball Coach Clipboard Gift Personalized Acrylic Gift for Volleyball Coach End of Season Team Appreciation Present Clipboard Gift",
@@ -17,7 +17,8 @@
     ],
     "tags": "Volleyball_Coach,Coach_Clipboard,Custom_Clipboard,Acrylic_Clipboard,Volleyball_Team,Personalized_Coach,End_Season_Gift,Volleyball_Trainer,Coach_Appreciation,Game_Day_Board,Volleyball_Strategy,Sports_Coach_Gift,volleyball_gift",
     "sku": "ET061-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 2,
@@ -37,7 +38,8 @@
     ],
     "tags": "Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Gift_For_Teacher,personalized_teacher,custom_clipboard,Personalized_Gift,Back_To_School,Teacher_Clipboard,Pencil_Teacher_Gift,Teacher_Name_Gift,Teacher_Appreciation,School_Supplies",
     "sku": "ET_CB_018",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 3,
@@ -58,7 +60,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 4,
@@ -79,7 +82,8 @@
     ],
     "tags": "Volleyball_Coach,Coach_Clipboard,Custom_Clipboard,Acrylic_Clipboard,Volleyball_Team,Personalized_Coach,End_Season_Gift,Volleyball_Trainer,Coach_Appreciation,Game_Day_Board,Volleyball_Strategy,Sports_Coach_Gift,volleyball_gift",
     "sku": "ET061-TB-CB-2025,ET-CB-20",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 5,
@@ -99,7 +103,8 @@
     ],
     "tags": "cheer_coach_gift,cheer_team_coach,custom_cheer_coach,coach_appreciation,cheer_banquet_gift,coach_gift_custom,end_of_season_gift,cheer_clipboard_gift,clipboard_cheer,personalized_board,clipboard_cheer_gift,cheerleading_coach,custom_clipboard",
     "sku": "ET062-TB-CB-2025,ET-CB-20",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 6,
@@ -120,7 +125,8 @@
     ],
     "tags": "Coach_gift,custom_coach_gift,unique_coach_gift,coach_appreciation,ball_bucket_pad,custom_bucket_pad,custom_bucket_lid,Custom_foam_lid_pad,coach_bucket_pad,baseball_coach_gift,softball_coach_gift,bucket_lid_pad,Yeti_bucket_lid_pad",
     "sku": "ET154-TB-BLP-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 7,
@@ -140,7 +146,8 @@
     ],
     "tags": "Coach_gift,custom_coach_gift,unique_coach_gift,coach_appreciation,ball_bucket_pad,custom_bucket_pad,custom_bucket_lid,Custom_foam_lid_pad,coach_bucket_pad,baseball_coach_gift,softball_coach_gift,bucket_lid_pad,Yeti_bucket_lid_pad",
     "sku": "ET153-TB-BLP-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 8,
@@ -160,7 +167,8 @@
     ],
     "tags": "custom_coach_gift,unique_coach_gift,coach_appreciation,end_of_season,ball_bucket_pad,custom_bucket_pad,custom_bucket_lid,coach_bucket_pad,personalized_lid_pad,baseball_coach_gift,softball_coach_gift,Yeti_Lid_Pad,Yeti_Bucket_Lid_Pad",
     "sku": "ET152-TB-BLP-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 9,
@@ -180,7 +188,8 @@
     ],
     "tags": "Coach_gift,custom_coach_gift,unique_coach_gift,coach_appreciation,ball_bucket_pad,custom_bucket_pad,custom_bucket_lid,Custom_foam_lid_pad,coach_bucket_pad,baseball_coach_gift,softball_coach_gift,bucket_lid_pad,Yeti_bucket_lid_pad",
     "sku": "ET151-TB-BLP-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 10,
@@ -201,7 +210,8 @@
     ],
     "tags": "Coach_gift,custom_coach_gift,unique_coach_gift,coach_appreciation,ball_bucket_pad,custom_bucket_pad,custom_bucket_lid,Custom_foam_lid_pad,coach_bucket_pad,baseball_coach_gift,softball_coach_gift,bucket_lid_pad,Yeti_bucket_lid_pad",
     "sku": "ET149-TB-BLP-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 11,
@@ -221,7 +231,8 @@
     ],
     "tags": "Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Gift_For_Teacher,personalized_teacher,Personalized_Gift,Back_To_School,Teacher_Supplies,Teacher_Thank_You,School_Supply,Custom_Clipboard,Leopard_Print,Learning_Gift",
     "sku": "ET-CB-22,ET-CB-20",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 12,
@@ -241,7 +252,8 @@
     ],
     "tags": "Coach_gift,custom_coach_gift,unique_coach_gift,coach_appreciation,ball_bucket_pad,custom_bucket_pad,custom_bucket_lid,Custom_foam_lid_pad,coach_bucket_pad,baseball_coach_gift,softball_coach_gift,bucket_lid_pad,Yeti_bucket_lid_pad",
     "sku": "ET150-TB-BLP-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 13,
@@ -257,7 +269,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET131-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 14,
@@ -275,7 +288,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,Metal_Sport_Card,Team_Sport_Card,Athlete_Team_Sports,baseball_team,baseball_MVP,custom_trading_card,Basketball__MVP,Basketball__team,custom_photo_card,basketball_keepsake,kids_sports_gift",
     "sku": "ET076-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 15,
@@ -291,7 +305,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET131-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 16,
@@ -312,7 +327,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 17,
@@ -331,7 +347,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET052-TB-VF-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 18,
@@ -352,7 +369,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 19,
@@ -368,7 +386,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET131-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 20,
@@ -389,7 +408,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 21,
@@ -408,7 +428,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET052-TB-VF-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 22,
@@ -424,7 +445,8 @@
     ],
     "tags": "custom_ornament,christmas_ornament,Gifts_for_Kids,thank_you_keepsake,ornament_keepsake,neighbor,best_neighbor,gift_neighbor,christmas_neighbor,for_neighbor,thank_you_ornament,thank_you_gift,holiday_ornament",
     "sku": "SKU_086_01,SKU_086_02,SKU_086_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 23,
@@ -442,7 +464,8 @@
     ],
     "tags": "Teacher_Clipboard,Customized_Clipboard,Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Clipboard_With_Name,Gift_For_Teacher,personalized_teacher,custom_teacher_gift,back_to_school,teacher_gifts,gift_from_student,custom_clipboard",
     "sku": "ET_CB_034",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 24,
@@ -458,7 +481,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET131-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 25,
@@ -474,7 +498,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET131-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 26,
@@ -495,7 +520,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 27,
@@ -511,7 +537,8 @@
     ],
     "tags": "Around_the_World,Christmas_Ornament,Keepsake_Ornament,Unique_Ornament,Great_Christmas_Gift,Nature_Lover_Gift,Outdoors_Gift,Gift_for_Her,Gift_for_Him,Beautiful_Ornament,Stained_Glass_Look,Grand_Canyon_Arizona,World_Wonders",
     "sku": "SKU_010_01,SKU_010_02,SKU_010_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 28,
@@ -532,7 +559,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 29,
@@ -548,7 +576,8 @@
     ],
     "tags": "custom_ornament,christmas_ornament,Gifts_for_Kids,thank_you_keepsake,ornament_keepsake,neighbor,best_neighbor,gift_neighbor,christmas_neighbor,for_neighbor,thank_you_ornament,thank_you_gift,holiday_ornament",
     "sku": "SKU_046_01,SKU_046_03,SKU_046_02",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 30,
@@ -569,7 +598,8 @@
     ],
     "tags": "House_Divided,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,ID_Holder,Football_Fan,Coach_Shaker,Acrylic_ID_Holder,Football_Shaker,Volleyball_Shaker,Volleyball_Gift,Volleyball_Player",
     "sku": "ET146-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 31,
@@ -585,7 +615,8 @@
     ],
     "tags": "Around_the_World,Christmas_Ornament,Keepsake_Ornament,Unique_Ornament,Great_Christmas_Gift,Nature_Lover_Gift,Outdoors_Gift,Gift_for_Her,Gift_for_Him,Beautiful_Ornament,Stained_Glass_Look,Grand_Canyon_Arizona,World_Wonders",
     "sku": "SKU_011_01,SKU_011_02,SKU_011_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 32,
@@ -604,7 +635,8 @@
     ],
     "tags": "travel_ornament,glass_ornament,couple_gift,christmas_decor,wanderlust_gift,travel_keepsake,custom_ornament,holiday_gift,adventure_gift,traveler_ornament,christmas_2025,world_traveler,adventure_awaits",
     "sku": "ET045-TB-GO-2025_,SKU_061_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 33,
@@ -624,7 +656,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 34,
@@ -645,7 +678,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 35,
@@ -666,7 +700,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 36,
@@ -686,7 +721,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 37,
@@ -705,7 +741,8 @@
     ],
     "tags": "pet_sympathy_gift,custom_birthday_gift,dog_mom_gift,pet_remembrance,personalized_gifts,pet_loss_gift,laser_etched_glass,custom_engraving,pet_memorial_gift,dog_lovers_gift,pet_decor,memory_gift",
     "sku": "ET091-TB-CL-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 38,
@@ -726,7 +763,8 @@
     ],
     "tags": "House_Divided,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,ID_Holder,Football_Fan,Coach_Shaker,Acrylic_ID_Holder,Football_Shaker,Volleyball_Shaker,Volleyball_Gift,Volleyball_Player",
     "sku": "ET146-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 39,
@@ -747,7 +785,8 @@
     ],
     "tags": "House_Divided,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Football_Fan,Coach_Shaker,Acrylic_ID_Holder,Football_Shaker,Gunter_Shaker,Gunter_Badge_Clip",
     "sku": "ET143-TB-SBR-2026",
-    "category": "Teacher Gifts"
+    "category": "Teacher Gifts",
+    "variations": []
   },
   {
     "id": 40,
@@ -768,7 +807,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,ID_Holder,Football_Fan,Coach_Shaker,Acrylic_ID_Holder,Football_Shaker,Golf_Shaker,Golf_Coach_Gift",
     "sku": "ET145-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 41,
@@ -789,7 +829,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Football_Fan,Coach_Shaker,Acrylic_ID_Holder,Custom_Basketball,Football_Shaker",
     "sku": "ET143-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 42,
@@ -810,7 +851,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Football_Fan,Coach_Shaker,Acrylic_ID_Holder,Basketball_Shaker,Custom_Basketball",
     "sku": "ET144-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 43,
@@ -831,7 +873,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Football_Fan,Coach_Shaker,Acrylic_ID_Holder,Basketball_Shaker,Custom_Basketball",
     "sku": "ET140-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 44,
@@ -852,7 +895,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Game_Day_Gear,Retractable_Reel,Football_Fan,Coach_Shaker,Acrylic_ID_Holder",
     "sku": "ET142-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 45,
@@ -873,7 +917,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Game_Day_Gear,Retractable_Reel,Football_Fan,Coach_Shaker,Acrylic_ID_Holder",
     "sku": "ET141-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 46,
@@ -893,7 +938,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Game_Day_Gear,Medical_Badge,Retractable_Reel,Football_Fan,Coach_Shaker",
     "sku": "ET139-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 47,
@@ -914,7 +960,8 @@
     ],
     "tags": "House_Divided,Football_Lover,Shaker_Badge_Reel,Custom_Team,Sports_Gift,Personalized_Gift,Football_Helmet,ID_Holder,Game_Day_Gear,Medical_Badge,Retractable_Reel,Football_Fan,Coach_Shaker",
     "sku": "ET138-TB-SBR-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 48,
@@ -933,7 +980,8 @@
     ],
     "tags": "Custom_Trading_Card,editable_sports_card,high_school_hockey,hockey_social_media,Custom_Hockey_Card,Ice_Hockey_Mom,Hockey_Card_Template,Ice_Hockey_Gift,Sports_Trading_Card,Hockey_Player_Gift,Hockey_Coach_Gift,Hockey_Gift_Ideas,hockey_card",
     "sku": "ET075-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 49,
@@ -953,7 +1001,8 @@
     ],
     "tags": "Teacher_Supplies,School_Supply,Custom_Clipboard,Soccer_Coach_Gift,Coach_Clipboard,Soccer_Team_Gift,Personalized_Coach,Soccer_Trainer,Coach_Appreciation,Soccer_Mom_Gift,Sports_Coach_Gift,Game_Day_Board,Acrylic_Clipboard",
     "sku": "ET060-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 50,
@@ -972,7 +1021,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 51,
@@ -991,7 +1041,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 52,
@@ -1011,7 +1062,8 @@
     ],
     "tags": "Teacher_Supplies,School_Supply,Custom_Clipboard,Soccer_Coach_Gift,Coach_Clipboard,Soccer_Team_Gift,Personalized_Coach,Soccer_Trainer,Coach_Appreciation,Soccer_Mom_Gift,Sports_Coach_Gift,Game_Day_Board,Acrylic_Clipboard",
     "sku": "ET060-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 53,
@@ -1032,7 +1084,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 54,
@@ -1053,7 +1106,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 55,
@@ -1073,7 +1127,8 @@
     ],
     "tags": "Teacher_Clipboard,Acrylic_Clipboard,Teacher_Name_Gifts,Clipboard_With_Name,Gift_For_Teacher,personalized_teacher,custom_teacher_gift,back_to_school,custom_clipboard,New_Teacher_Gift,Gifts_For_Teachers,Teacher_Essentials,Floral_Teacher_Gift",
     "sku": "ET_CB_014",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 56,
@@ -1091,7 +1146,8 @@
     ],
     "tags": "Teacher_Appreciation,Teacher_Clipboard,School_Supplies,Custom_Clipboard,Customized_Clipboard,Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Clipboard_With_Name,Gift_From_Student,Gift_For_Teacher,personalized_teacher,custom_teacher_gift",
     "sku": "ET_CB_016",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 57,
@@ -1112,7 +1168,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 58,
@@ -1133,7 +1190,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 59,
@@ -1151,7 +1209,8 @@
     ],
     "tags": "teacher_clipboard,custom_clipboard,teacher_appreciation,teacher_gifts,acrylic_clipboard,teacher_name_gifts,first_day_of_school,clipboard_with_name,custom_teacher_name,school_supplies,new_teacher_gifts,desk_accessories,teacher_desk_decor",
     "sku": "ET_CB_028",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 60,
@@ -1172,7 +1231,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 61,
@@ -1191,7 +1251,8 @@
     ],
     "tags": "Custom_Photo,Graduation_Gift,College_Senior_Gift,Custom_Name,University_Name,Photo_Keepsake,Gift_For_Graduate,custom_photo_crystal,3d_crystal_photo,engraved_crystal,led_night_light,personalised_gift,class_of_2026",
     "sku": "ET093-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 62,
@@ -1210,7 +1271,8 @@
     ],
     "tags": "pet_sympathy_gift,custom_birthday_gift,dog_mom_gift,pet_remembrance,personalized_gifts,pet_loss_gift,laser_etched_glass,custom_engraving,pet_memorial_gift,dog_lovers_gift,pet_decor,memory_gift",
     "sku": "ET091-TB-CL-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 63,
@@ -1228,7 +1290,8 @@
     ],
     "tags": "Custom_Trading_Card,editable_sports_card,high_school_hockey,hockey_social_media,Custom_Hockey_Card,Ice_Hockey_Mom,Hockey_Card_Template,Ice_Hockey_Gift,Sports_Trading_Card,Hockey_Player_Gift,Hockey_Coach_Gift,Hockey_Gift_Ideas,hockey_card",
     "sku": "ET075-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 64,
@@ -1246,7 +1309,8 @@
     ],
     "tags": "Custom_Trading_Card,editable_sports_card,high_school_hockey,hockey_social_media,Custom_Hockey_Card,Ice_Hockey_Mom,Hockey_Card_Template,Ice_Hockey_Gift,Sports_Trading_Card,Hockey_Player_Gift,Hockey_Coach_Gift,Hockey_Gift_Ideas,hockey_card",
     "sku": "ET075-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 65,
@@ -1264,7 +1328,8 @@
     ],
     "tags": "Custom_Trading_Card,editable_sports_card,high_school_hockey,hockey_social_media,Custom_Hockey_Card,Ice_Hockey_Mom,Hockey_Card_Template,Ice_Hockey_Gift,Sports_Trading_Card,Hockey_Player_Gift,Hockey_Coach_Gift,Hockey_Gift_Ideas,hockey_card",
     "sku": "ET075-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 66,
@@ -1280,7 +1345,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,cardinal_ornament,memorial_ornament,sympathy_gift_losssy,mpathy_gift,in_loving_memory,of_father_mother,bereavement_gift,mother_father_gift,christmas_ornament,memorial_gifts,memorial_keepsake",
     "sku": "SKU_014_01,SKU_014_02,SKU_014_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 67,
@@ -1298,7 +1364,8 @@
     ],
     "tags": "custom_anime_card,pet_memorial,pet_lover_gift,Gift_for_Pet_Lovers,custom_pet_portrait,pet_memorial_gift,pet_card_present,animal_lover_gift,dog_keepsake_gift,unique_pet_card,custom_pet_card,dog_lover_gift,poke_style_card",
     "sku": "ET097-TB-MC-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 68,
@@ -1318,7 +1385,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET061-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 69,
@@ -1337,7 +1405,8 @@
     ],
     "tags": "Teacher_Supplies,School_Supply,Custom_Clipboard,Soccer_Coach_Gift,Coach_Clipboard,Soccer_Team_Gift,Personalized_Coach,Soccer_Trainer,Coach_Appreciation,Soccer_Mom_Gift,Sports_Coach_Gift,Game_Day_Board,Acrylic_Clipboard",
     "sku": "ET060-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 70,
@@ -1358,7 +1427,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 71,
@@ -1379,7 +1449,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 72,
@@ -1400,7 +1471,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 73,
@@ -1419,7 +1491,8 @@
     ],
     "tags": "Teacher_Supplies,School_Supply,Custom_Clipboard,Soccer_Coach_Gift,Coach_Clipboard,Soccer_Team_Gift,Personalized_Coach,Soccer_Trainer,Coach_Appreciation,Soccer_Mom_Gift,Sports_Coach_Gift,Game_Day_Board,Acrylic_Clipboard",
     "sku": "ET060-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 74,
@@ -1438,7 +1511,8 @@
     ],
     "tags": "Teacher_Supplies,School_Supply,Custom_Clipboard,Soccer_Coach_Gift,Coach_Clipboard,Soccer_Team_Gift,Personalized_Coach,Soccer_Trainer,Coach_Appreciation,Soccer_Mom_Gift,Sports_Coach_Gift,Game_Day_Board,Acrylic_Clipboard",
     "sku": "ET060-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 75,
@@ -1457,7 +1531,8 @@
     ],
     "tags": "Teacher_Supplies,School_Supply,Custom_Clipboard,Soccer_Coach_Gift,Coach_Clipboard,Soccer_Team_Gift,Personalized_Coach,Soccer_Trainer,Coach_Appreciation,Soccer_Mom_Gift,Sports_Coach_Gift,Game_Day_Board,Acrylic_Clipboard",
     "sku": "ET060-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 76,
@@ -1474,7 +1549,8 @@
     ],
     "tags": "bus_driver_gift,christmas_ornament,school_bus_ornament,glass_ornament,teacher_gift,holiday_decor,christmas_gift,custom_ornament,bus_driver_christmas,thank_you_gift,holiday_keepsake,school_staff_gift,bus_driver",
     "sku": "SKU_065,SKU_054_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 77,
@@ -1493,7 +1569,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET052-TB-VF-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 78,
@@ -1514,7 +1591,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 79,
@@ -1531,7 +1609,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug,custom_keychain",
     "sku": "ETS260-SC-BS-2025",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 80,
@@ -1548,7 +1627,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug,custom_keychain",
     "sku": "ETS260-SC-BS-2025",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 81,
@@ -1565,7 +1645,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug,Glass_Suncatcher",
     "sku": "ETS260-SC-BS-2025",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 82,
@@ -1582,7 +1663,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ETS260-SC-BS-2025",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 83,
@@ -1598,7 +1680,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET131-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 84,
@@ -1618,7 +1701,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 85,
@@ -1636,7 +1720,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Baseball_Invite,Baseball_Party,Sports_Party,All_Star_Party,baseball_invitation,baseball_birthday,vintage_baseball,boy_party,photo_baseball,photo_trading_card",
     "sku": "ET074-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 86,
@@ -1650,7 +1735,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,Christmas_Gift,Baby_Keepsake,Xmas_Tree_Decor,Baby_First_Christmas,baby's_first_bauble,new_parents_gift,first_christmas_gift",
     "sku": "",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 87,
@@ -1671,7 +1757,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 88,
@@ -1689,7 +1776,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET073-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 89,
@@ -1707,7 +1795,8 @@
     ],
     "tags": "custom_anime_card,pet_memorial,pet_lover_gift,Gift_for_Pet_Lovers,custom_pet_portrait,pet_memorial_gift,pet_card_present,animal_lover_gift,dog_keepsake_gift,unique_pet_card,custom_pet_card,dog_lover_gift,poke_style_card",
     "sku": "ET097-TB-MC-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 90,
@@ -1725,7 +1814,8 @@
     ],
     "tags": "custom_anime_card,pet_memorial,pet_lover_gift,Gift_for_Pet_Lovers,custom_pet_portrait,pet_memorial_gift,pet_card_present,animal_lover_gift,dog_keepsake_gift,unique_pet_card,custom_pet_card,dog_lover_gift,poke_style_card",
     "sku": "ET097-TB-MC-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 91,
@@ -1743,7 +1833,8 @@
     ],
     "tags": "custom_anime_card,pet_memorial,pet_lover_gift,Gift_for_Pet_Lovers,custom_pet_portrait,pet_memorial_gift,pet_card_present,animal_lover_gift,dog_keepsake_gift,unique_pet_card,custom_pet_card,dog_lover_gift,poke_style_card",
     "sku": "ET097-TB-MC-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 92,
@@ -1761,7 +1852,8 @@
     ],
     "tags": "Custom_Trading_Card,editable_sports_card,high_school_hockey,hockey_social_media,Custom_Hockey_Card,Ice_Hockey_Mom,Hockey_Card_Template,Ice_Hockey_Gift,Sports_Trading_Card,Hockey_Player_Gift,Hockey_Coach_Gift,Hockey_Gift_Ideas,hockey_card",
     "sku": "ET075-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 93,
@@ -1778,7 +1870,8 @@
     ],
     "tags": "baseball_ornament,personalized_gift,acrylic_ornament,christmas_decor,sports_keepsake,baseball_player,team_gift,coach_gift,boys_ornament,baseball_mom,christmas_2025,custom_name_gift,baseball_lover",
     "sku": "SKU_098_03,SKU_056_03",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 94,
@@ -1799,7 +1892,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 95,
@@ -1817,7 +1911,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Baseball_Invite,Baseball_Party,Sports_Party,All_Star_Party,baseball_invitation,baseball_birthday,vintage_baseball,boy_party,photo_baseball,photo_trading_card",
     "sku": "ET074-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 96,
@@ -1835,7 +1930,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET073-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 97,
@@ -1850,7 +1946,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,christmas_ornament,ngagement_ornament,couples_gift,new_home_ornament,personalized_gift,House_Address,first_christmas_at,new_home,housewarming_gift,personalized_home,gift_for_new_home",
     "sku": "SKU_025_01,SKU_025_02,SKU_025_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 98,
@@ -1870,7 +1967,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 99,
@@ -1888,7 +1986,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET073-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 100,
@@ -1906,7 +2005,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET073-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 101,
@@ -1924,7 +2024,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET073-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 102,
@@ -1943,7 +2044,8 @@
     ],
     "tags": "Custom_Photo,Graduation_Gift,College_Senior_Gift,Custom_Name,University_Name,Photo_Keepsake,Gift_For_Graduate,custom_photo_crystal,3d_crystal_photo,engraved_crystal,led_night_light,personalised_gift,class_of_2026",
     "sku": "ET093-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 103,
@@ -1964,7 +2066,8 @@
     ],
     "tags": "Soccer_Cross_Gift,Baseball_Blessing,Basketball_Token,Rugby_Pocket_Hug,Christian_Athlete,Coach_Appreciation,Philippians_413,Team_Gift_Ideas,Sports_Keepsake,Handmade_Leather,baseball_cross,pocket_cross,pocket_hug",
     "sku": "ET130-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 104,
@@ -1982,7 +2085,8 @@
     ],
     "tags": "Teacher_Appreciation,Teacher_Clipboard,School_Supplies,Custom_Clipboard,Customized_Clipboard,Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Clipboard_With_Name,Gift_From_Student,Gift_For_Teacher,personalized_teacher,custom_teacher_gift",
     "sku": "ET_CB_016",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 105,
@@ -2002,7 +2106,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET064-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 106,
@@ -2022,7 +2127,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET064-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 107,
@@ -2042,7 +2148,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET060-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 108,
@@ -2062,7 +2169,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET060-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 109,
@@ -2082,7 +2190,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET064-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 110,
@@ -2098,7 +2207,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,christmas_ornament,first_as_mr_mrs,mr_mrs_christmas,mr_mrs_ornament,mrs_mrs_ornament,married_ornament,wedding_ornament,wedding_gift,Mr_Mrs_Keepsakee,ngagement_ornament,couples_gift",
     "sku": "SKU_015_01,SKU_015_02,SKU_015_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 111,
@@ -2115,7 +2225,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,memorial_ornament,mpathy_gift,in_loving_memory,of_father_mother,mother_father_gift,christmas_ornament,memorial_gifts,memorial_keepsake,Turtle_Memorial,Turtle_Keepsake_2025,Remembrance_Ornament",
     "sku": "SKU_007_01,SKU_007_02,SKU_007_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 112,
@@ -2134,7 +2245,8 @@
     ],
     "tags": "Football_Coach_Gift,Coach_Clipboard,Custom_Clipboard,Acrylic_Clipboard,Team_Coach_Gift,Personalized_Coach,End_Season_Gift,Football_Team,Gridiron_Coach,Sports_Coach_Gift,Coach_Thank_You,Football_Strategy,Game_Day_Board",
     "sku": "ET066--TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 113,
@@ -2154,7 +2266,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 114,
@@ -2174,7 +2287,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 115,
@@ -2194,7 +2308,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 116,
@@ -2212,7 +2327,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,Metal_Sport_Card,Team_Sport_Card,Athlete_Team_Sports,baseball_team,baseball_MVP,custom_trading_card,Basketball__MVP,Basketball__team,custom_photo_card,basketball_keepsake,kids_sports_gift",
     "sku": "ET076-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 117,
@@ -2230,7 +2346,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Photo_Sport_Card,Birthday_Present,Memorable_Keepsake,Customized__Gift,Metal_Trading_Card,Metal_Soccer_Card,Personalized_Soccer,Gift_coach_team,Soccer_player_metal,player_statistics,soccer_club_team",
     "sku": "ET077-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 118,
@@ -2248,7 +2365,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Baseball_Invite,Baseball_Party,Sports_Party,All_Star_Party,baseball_invitation,baseball_birthday,vintage_baseball,boy_party,photo_baseball,photo_trading_card",
     "sku": "ET074-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 119,
@@ -2268,7 +2386,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 120,
@@ -2286,7 +2405,8 @@
     ],
     "tags": "Custom_Trading_Card,editable_sports_card,high_school_hockey,hockey_social_media,Custom_Hockey_Card,Ice_Hockey_Mom,Hockey_Card_Template,Ice_Hockey_Gift,Sports_Trading_Card,Hockey_Player_Gift,Hockey_Coach_Gift,Hockey_Gift_Ideas,hockey_card",
     "sku": "ET075-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 121,
@@ -2304,7 +2424,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET073-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 122,
@@ -2324,7 +2445,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET063-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 123,
@@ -2344,7 +2466,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET064-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 124,
@@ -2364,7 +2487,8 @@
     ],
     "tags": "Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Gift_For_Teacher,personalized_teacher,Personalized_Gift,Back_To_School,Rainbow_Teacher,Teacher_Supplies,Classroom_Decor,Teacher_Thank_You,School_Supply,Custom_Clipboard",
     "sku": "ET-CB-25,ET-CB-20",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 125,
@@ -2383,7 +2507,8 @@
     ],
     "tags": "Gift_for_mother,Mother's_Day_Gift,Loving_Gift_For_Mom,gifts_for_mother,custom_led_light,Mom_Gift,Wife,Love_Mom_Gift,Baseball_Mom,Sentimental_Mother,We_Caught_the_Best,Baseball_Mom_gift,Love_baseball",
     "sku": "ET129-TB-CHL-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 126,
@@ -2402,7 +2527,8 @@
     ],
     "tags": "custom_plant_pot,Appreciation_Gift,Thank_You_Gift,Retirement_Plant_Pot,gifts_for_teacher,mothers_day_gifts,mothers_plant_pot,handmade_flower,glass_flower_pot,gifts_for_mummy,thank_you_mom",
     "sku": "ET0102-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 127,
@@ -2419,7 +2545,8 @@
     ],
     "tags": "Personalized_Gift,Teacher_Appreciation,Teacher_Clipboard,Custom_Teacher,School_Supplies,Custom_Clipboard,Customized_Clipboard,Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Clipboard_With_Name,Gift_From_Student,Gift_For_Teacher",
     "sku": "ET_CB_002",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 128,
@@ -2439,7 +2566,8 @@
     ],
     "tags": "Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Gift_For_Teacher,personalized_teacher,Personalized_Gift,Back_To_School,Teacher_Supplies,Classroom_Decor,Teacher_Thank_You,School_Supply,Custom_Clipboard",
     "sku": "ET-CB-27,ET-CB-20",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 129,
@@ -2459,7 +2587,8 @@
     ],
     "tags": "Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Gift_For_Teacher,personalized_teacher,custom_clipboard,Personalized_Gift,Back_To_School,Rainbow_Teacher,Heartfelt_Gift,Educator_Gift,Teacher_Appreciation,Teacher_Name_Gift",
     "sku": "ET_CB_009",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 130,
@@ -2477,7 +2606,8 @@
     ],
     "tags": "Custom_Trading_Card,Custom_trading_cards,Custom_sport_cards,mothers_day_card,mothers_day,gift_for_her,gift_for_moms,new_mom_gift,custom_mother_gift,cards_for_mom,Mother's_Day_Present,Mom_Gifts,Personalized__card",
     "sku": "ET115-TB-MC-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 131,
@@ -2499,7 +2629,8 @@
     ],
     "tags": "soccer_coach_gift,coach_clipboard,coaching_clipboard,coach_appreciation,volleyball_coachgift,football_coach_gift,baseball_coach_gift,cheer_coach_gift,wrestling_coach_gift,gift_pitching_coach,softball_coach_gift,hockey_coach_gift,Teacher_Clipboard",
     "sku": "ET113-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 132,
@@ -2515,7 +2646,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Sports_Party,All_Star_Party,boy_party,photo_trading_card,Hockey_Invite,Rookie_Card,Sports_Birthday,basketball_Trading,Basketball_Rookie,All-Star_Party",
     "sku": "ET118-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 133,
@@ -2533,7 +2665,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Sports_Party,All_Star_Party,boy_party,photo_trading_card,Hockey_Invite,Hockey_Party,Rookie_Card,Sports_Birthday,multi_sport_invite,Hockey_Trading_Card",
     "sku": "ET117-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 134,
@@ -2550,7 +2683,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Sports_Party,All_Star_Party,boy_party,photo_trading_card,Hockey_Invite,Hockey_Party,Rookie_Card,Sports_Birthday,multi_sport_invite,Hockey_Trading_Card",
     "sku": "ET116-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 135,
@@ -2569,7 +2703,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Baseball_Invite,Baseball_Party,Sports_Party,All_Star_Party,baseball_invitation,baseball_birthday,vintage_baseball,boy_party,photo_baseball,photo_trading_card",
     "sku": "ET114-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 136,
@@ -2585,7 +2720,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,christmas_ornament,Mr_Mrs_Keepsakee,ngagement_ornament,Gifts_for_Kids,Christmas_Gift,Baby_Keepsake,Xmas_Tree_Decor,Baby_First_Christmas,baby's_first_bauble,new_parents_gift,first_christmas_gift",
     "sku": "SKU_017_01",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 137,
@@ -2601,7 +2737,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,cardinal_ornament,memorial_ornament,sympathy_gift_losssy,mpathy_gift,in_loving_memory,of_father_mother,bereavement_gift,mother_father_gift,christmas_ornament,memorial_gifts,memorial_keepsake",
     "sku": "SKU_012_01",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 138,
@@ -2619,7 +2756,8 @@
     ],
     "tags": "basketball_gift,player_ornament,sports_keepsake,coach_gift,team_gift,christmas_ornament,glass_ornament,custom_jersey,athlete_gift,basketball_decor,holiday_gift,sports_ornament,basketball_lover_gif",
     "sku": "SKU_060_01,SKU_060_02,SKU_060_03",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 139,
@@ -2636,7 +2774,8 @@
     ],
     "tags": "hockey_ornament,sports_gift,acrylic_ornament,custom_hockey,hockey_player_gift,christmas_ornament,team_keepsake,hockey_decor,personalized_gift,ice_hockey_lover,coach_gift,teen_boy_gift,sports_christmas",
     "sku": "SKU_060_03,SKU_056_03",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 140,
@@ -2655,7 +2794,8 @@
     ],
     "tags": "Football_Coach_Gift,Coach_Clipboard,Custom_Clipboard,Acrylic_Clipboard,Team_Coach_Gift,Personalized_Coach,End_Season_Gift,Football_Team,Gridiron_Coach,Sports_Coach_Gift,Coach_Thank_You,Football_Strategy,Game_Day_Board",
     "sku": "ET066--TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 141,
@@ -2674,7 +2814,8 @@
     ],
     "tags": "Coach_card_holder,coach_clipboard,Coach_gift_card,coach_appreciation,coach_gift,end_of_season,thank_you_gift,basketball_coach,baseball_coach_gift,gift_card_holder,fall_coach_gift,cash_holder,wooden_money_holder",
     "sku": "ET112-TB-CCH-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 142,
@@ -2693,7 +2834,8 @@
     ],
     "tags": "Coach_card_holder,Coach_gift_card,coach_appreciation,coach_gift,end_of_season,thank_you_gift,gift_card_holder,fall_coach_gift,cash_holder,wooden_money_holder,Baseball_Coach_Ideas,Baseball_Card_Holder,Baseball_Coach_Gift",
     "sku": "ET111-TB-CCH-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 143,
@@ -2712,7 +2854,8 @@
     ],
     "tags": "Coach_card_holder,Coach_gift_card,coach_appreciation,coach_gift,end_of_season,thank_you_gift,gift_card_holder,fall_coach_gift,cash_holder,wooden_money_holder,Baseball_Card_Holder,Baseball_Coach_Gift,Baseball_Coach_Ideas",
     "sku": "ET110-TB-CCH-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 144,
@@ -2731,7 +2874,8 @@
     ],
     "tags": "Coach_card_holder,Coach_gift_card,coach_appreciation,coach_gift,end_of_season,thank_you_gift,gift_card_holder,fall_coach_gift,cash_holder,wooden_money_holder,Football_Card_Holder,Football_Coach_Gift",
     "sku": "ET109-TB-CCH-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 145,
@@ -2750,7 +2894,8 @@
     ],
     "tags": "Coach_card_holder,Coach_gift_card,coach_appreciation,coach_gift,end_of_season,thank_you_gift,gift_card_holder,fall_coach_gift,cash_holder,wooden_money_holder,Football_Card_Holder,Football_Coach_Gift",
     "sku": "ET108-TB-CCH-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 146,
@@ -2768,7 +2913,8 @@
     ],
     "tags": "Coach_card_holder,coach_clipboard,Coach_gift_card,coach_appreciation,coach_gift,end_of_season,thank_you_gift,basketball_coach,baseball_coach_gift,gift_card_holder,fall_coach_gift,cash_holder,wooden_money_holder",
     "sku": "ET107-TB-CCH-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 147,
@@ -2786,7 +2932,8 @@
     ],
     "tags": "Custom_Trading_Card,editable_sports_card,high_school_hockey,hockey_social_media,Custom_Hockey_Card,Ice_Hockey_Mom,Hockey_Card_Template,Ice_Hockey_Gift,Sports_Trading_Card,Hockey_Player_Gift,Hockey_Coach_Gift,Hockey_Gift_Ideas,hockey_card",
     "sku": "ET075-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 148,
@@ -2803,7 +2950,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Baseball_Invite,Baseball_Party,Sports_Party,All_Star_Party,baseball_invitation,baseball_birthday,vintage_baseball,boy_party,photo_baseball,photo_trading_card",
     "sku": "ET074-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 149,
@@ -2822,7 +2970,8 @@
     ],
     "tags": "basketball_coach,basketball_clipboard,coach_clipboard,coach_gift,gift_for_basketball,coach_white_board,dry_erase_board,basketball_gifts,coach_dry_erase,custom_basketball,coach_basketball,whiteboard_coach,basketball_coaches",
     "sku": "ET065-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 150,
@@ -2839,7 +2988,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,Remembrance_Ornament,Christmas_in_heaven,Loss_dad_gift,memorial_ornament,Christmas_2025,I'm_always_with_you,Memorial_Gift,Christmas_Ornaments,Sympathy_Loss_Gift,in_memory_of_dad,Custom_Memorial_Gift",
     "sku": "SKU_040_01,SKU_040_02,SKU_040_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 151,
@@ -2858,7 +3008,8 @@
     ],
     "tags": "custom_plant_pot,mothers_day_gifts,mothers_plant_pot,glass_flower_pot,Gift_From_Daughter,gifts_for_mom,custom_photo_gift,mother_of_bride,mother_of_groom,gift_for_mom,toile_de_jouy,bridal_shower_gift,mom_plant_pot",
     "sku": "ET0106-TB-FGP-2026",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 152,
@@ -2877,7 +3028,8 @@
     ],
     "tags": "custom_plant_pot,Appreciation_Gift,Thank_You_Gift,Retirement_Plant_Pot,gifts_for_teacher,mothers_day_gifts,mothers_plant_pot,handmade_flower,glass_flower_pot,female_coworker_bday,work_bestie_gift,bff_birthday_gift,30s_daughter_gift",
     "sku": "ET0105-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 153,
@@ -2896,7 +3048,8 @@
     ],
     "tags": "custom_plant_pot,Appreciation_Gift,Thank_You_Gift,Retirement_Plant_Pot,gifts_for_teacher,mothers_day_gifts,mothers_plant_pot,handmade_flower,glass_flower_pot,gifts_for_mummy,thank_you_mom",
     "sku": "ET0104-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 154,
@@ -2915,7 +3068,8 @@
     ],
     "tags": "custom_plant_pot,mothers_day_gifts,mothers_plant_pot,glass_flower_pot,Gift_From_Daughter,Mothers_Day_Mom,Personalized_Gift,gifts_for_mom,custom_photo_gift,photo_gifts,Custom_Vintage_Photo,custom_family_gift,gifts_for_friends",
     "sku": "ET0103-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 155,
@@ -2934,7 +3088,8 @@
     ],
     "tags": "custom_plant_pot,Retirement_Plant_Pot,gifts_for_teacher,mothers_day_gifts,mothers_plant_pot,glass_flower_pot,Gift_From_Daughter,Gift_From_Son,Mothers_Day_Mom,Mom_Birthday_Gift,Personalized_Gift",
     "sku": "ET0101-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 156,
@@ -2953,7 +3108,8 @@
     ],
     "tags": "custom_plant_pot,Appreciation_Gift,Thank_You_Gift,Retirement_Plant_Pot,gifts_for_teacher,mothers_day_gifts,mothers_plant_pot,handmade_flower,glass_flower_pot,gifts_for_mummy,thank_you_mom",
     "sku": "ET0100-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 157,
@@ -2972,7 +3128,8 @@
     ],
     "tags": "custom_plant_pot,Appreciation_Gift,Thank_You_Gift,Retirement_Plant_Pot,gifts_for_teacher,mothers_day_gifts,mothers_plant_pot,handmade_flower,glass_flower_pot,gifts_for_mummy,thank_you_mom",
     "sku": "ET099-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 158,
@@ -2990,7 +3147,8 @@
     ],
     "tags": "rookie_of_the_year,rookie_year_party,players_card,rookie_card,Personalized_Rookie,1st_rookie_party,our_little_rookie,milestone_card,Season_Highlights,baby_first_birthday,baseball_milestone,baseball_card",
     "sku": "ET097-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 159,
@@ -3007,7 +3165,8 @@
     ],
     "tags": "Custom_Trading_Card,Custom_trading_cards,Custom_sport_cards,mothers_day_card,mothers_day,gift_for_her,gift_for_moms,new_mom_gift,custom_mother_gift,cards_for_mom,Mother's_Day_Present,Mom_Gifts,Personalized__card",
     "sku": "ET095-TB-MC-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 160,
@@ -3024,7 +3183,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,cardinal_ornament,memorial_ornament,in_loving_memory,of_father_mother,bereavement_gift,Mother_sympathy_gift,loss_of_a_loved_one,memorial_gift,loss_of_grandparents,Sympathy_Gift,Dad_Loss_Ornament",
     "sku": "SKU_034_01,SKU_034_02,SKU_034_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 161,
@@ -3043,7 +3203,8 @@
     ],
     "tags": "custom_plant_pot,personalised_gifts,Retirement_Gifts,Appreciation_Gift,Thank_You_Gift,Retirement_Plant_Pot,gifts_for_teacher,mothers_day_gifts,mothers_plant_pot,handmade_flower,glass_flower_pot,gifts_for_mummy,thank_you_mom",
     "sku": "ET098-TB-FGP-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 162,
@@ -3062,7 +3223,8 @@
     ],
     "tags": "Custom_Photo,Graduation_Gift,College_Senior_Gift,Custom_Name,University_Name,Photo_Keepsake,Gift_For_Graduate,custom_photo_crystal,3d_crystal_photo,engraved_crystal,led_night_light,personalised_gift,class_of_2026",
     "sku": "ET094-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 163,
@@ -3081,7 +3243,8 @@
     ],
     "tags": "Custom_Photo,Graduation_Gift,College_Senior_Gift,Custom_Name,University_Name,Photo_Keepsake,Gift_For_Graduate,custom_photo_crystal,3d_crystal_photo,engraved_crystal,led_night_light,personalised_gift,class_of_2026",
     "sku": "ET093-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 164,
@@ -3100,7 +3263,8 @@
     ],
     "tags": "pet_sympathy_gift,custom_birthday_gift,dog_mom_gift,pet_remembrance,personalized_gifts,pet_loss_gift,laser_etched_glass,custom_engraving,pet_memorial_gift,dog_lovers_gift,pet_decor,memory_gift",
     "sku": "ET091-TB-CL-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 165,
@@ -3119,7 +3283,8 @@
     ],
     "tags": "pet_sympathy_gift,custom_birthday_gift,dog_mom_gift,pet_remembrance,personalized_gifts,pet_loss_gift,laser_etched_glass,custom_engraving,pet_memorial_gift,dog_lovers_gift,pet_decor,memory_gift",
     "sku": "ET090-TB-CL-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 166,
@@ -3138,7 +3303,8 @@
     ],
     "tags": "pet_sympathy_gift,custom_birthday_gift,dog_mom_gift,pet_remembrance,personalized_gifts,pet_loss_gift,laser_etched_glass,custom_engraving,pet_memorial_gift,dog_lovers_gift,pet_decor,memory_gift",
     "sku": "ET090-TB-CL-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 167,
@@ -3158,7 +3324,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,moon_phase_lamp,birthday_moon_gift,first_time_mom_gift,custom_birth_date,night_sky_lamp,personalized_moon,crystal_heart_lamp,daughter_to_mom,new_mom_keepsake,moon_phase_by_date,mom_night_light",
     "sku": "ET086-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 168,
@@ -3177,7 +3344,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,moon_phase_lamp,night_sky_lamp,personalized_moon,crystal_heart_lamp,new_mom_keepsake,mom_night_light,moon_phase_light,the_night_we_met,Mom_gift_from_son,mother's_day_gift,grandkids_nightlight",
     "sku": "ET085-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 169,
@@ -3196,7 +3364,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,first_time_mom_gift,custom_birth_date,personalized_moon,crystal_heart_lamp,daughter_to_mom,new_mom_keepsake,crystal_3d_photo,gift_for_nana,grandma_night_light,crystal_heart_light,grandma_gift",
     "sku": "ET089-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 170,
@@ -3215,7 +3384,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,first_time_mom_gift,custom_birth_date,personalized_moon,crystal_heart_lamp,daughter_to_mom,new_mom_keepsake,crystal_3d_photo,gift_for_nana,grandma_night_light,crystal_heart_light,grandma_gift",
     "sku": "ET087-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 171,
@@ -3234,7 +3404,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,first_time_mom_gift,custom_birth_date,personalized_moon,crystal_heart_lamp,daughter_to_mom,new_mom_keepsake,crystal_3d_photo,gift_for_nana,grandma_night_light,crystal_heart_light,grandma_gift",
     "sku": "ET088-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 172,
@@ -3253,7 +3424,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,moon_phase_lamp,night_sky_lamp,personalized_moon,crystal_heart_lamp,new_mom_keepsake,mom_night_light,moon_phase_light,the_night_we_met,Mom_gift_from_son,mother's_day_gift,grandkids_nightlight",
     "sku": "ET085-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 173,
@@ -3272,7 +3444,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,moon_phase_lamp,birthday_moon_gift,first_time_mom_gift,custom_birth_date,night_sky_lamp,personalized_moon,crystal_heart_lamp,daughter_to_mom,new_mom_keepsake,moon_phase_by_date,mom_night_light",
     "sku": "ET083-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 174,
@@ -3291,7 +3464,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,moon_phase_lamp,birthday_moon_gift,first_time_mom_gift,custom_birth_date,night_sky_lamp,personalized_moon,crystal_heart_lamp,daughter_to_mom,new_mom_keepsake,moon_phase_by_date,mom_night_light",
     "sku": "ET082-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 175,
@@ -3310,7 +3484,8 @@
     ],
     "tags": "gift_for_mom,mothers_day_gift,moon_phase_lamp,birthday_moon_gift,first_time_mom_gift,custom_birth_date,night_sky_lamp,personalized_moon,crystal_heart_lamp,daughter_to_mom,new_mom_keepsake,moon_phase_by_date,mom_night_light",
     "sku": "ET080-TB-CL-2026",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 176,
@@ -3328,7 +3503,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Personalized_Cards,Photo_Sport_Card,Birthday_Present,Memorable_Keepsake,Metal_Sport_Card,Sentimental__Card,Sport_Gift_for_Dad,Team_Sport_Card,Metal_Football_Coach,College_Athlete_Team,MVP_Football_Present",
     "sku": "ET079-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 177,
@@ -3346,7 +3522,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Photo_Sport_Card,Birthday_Present,Memorable_Keepsake,Customized__Gift,Metal_Trading_Card,Metal_Soccer_Card,Personalized_Soccer,Gift_coach_team,Soccer_player_metal,player_statistics,soccer_club_team",
     "sku": "ET077-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 178,
@@ -3364,7 +3541,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Personalized_Cards,Photo_Sport_Card,Birthday_Present,Memorable_Keepsake,Metal_Sport_Card,Sentimental__Card,Sport_Gift_for_Dad,Team_Sport_Card,Metal_Football_Coach,College_Athlete_Team,MVP_Football_Present",
     "sku": "ET076-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 179,
@@ -3382,7 +3560,8 @@
     ],
     "tags": "Custom_Trading_Cards,Photo_Sport_Card,custom_trading_card,Baseball_Invite,Baseball_Party,Sports_Party,All_Star_Party,baseball_invitation,baseball_birthday,vintage_baseball,boy_party,photo_baseball,photo_trading_card",
     "sku": "ET074-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 180,
@@ -3400,7 +3579,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET072-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 181,
@@ -3418,7 +3598,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET071-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 182,
@@ -3436,7 +3617,8 @@
     ],
     "tags": "Custom_Trading_Cards,Sport_Trading_Card,Metal_Baseball_Card,Photo_Sport_Card,Metal_Sport_Card,Sport_Gift_for_Dad,Team_Sport_Card,Athlete_Team_Sports,baseball_team,travel_team,end_of_season_gifts,baseball_MVP,custom_trading_card",
     "sku": "ET070-TB-MC-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 183,
@@ -3455,7 +3637,8 @@
     ],
     "tags": "aurora_suncatcher,northern_lights_art,stained_glass_decor,mountain_sunset_gift,aurora_home_decor,glass_window_hanging,landscape_suncatcher,celestial_wall_art,nature_lover_gift,colorful_glass_decor,sky_night_suncatcher,cabin_window_decor",
     "sku": "ETS260-SC-BS-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 184,
@@ -3477,7 +3660,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,baseball_coach,baseball_clipboard,gift_for_baseball,baseball_gifts,custom_baseball,coach_baseball,baseball_coaches,end_of_season_gift,baseball_coach_gift,clipboard_for_coach,clipboard_assistant",
     "sku": "ET069-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 185,
@@ -3498,7 +3682,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,baseball_coach,baseball_clipboard,gift_for_baseball,baseball_gifts,custom_baseball,coach_baseball,baseball_coaches,end_of_season_gift,baseball_coach_gift,clipboard_for_coach,clipboard_assistant",
     "sku": "ET068-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 186,
@@ -3519,7 +3704,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,baseball_coach,baseball_clipboard,gift_for_baseball,baseball_gifts,custom_baseball,coach_baseball,baseball_coaches,end_of_season_gift,baseball_coach_gift,clipboard_for_coach,clipboard_assistant",
     "sku": "ET067-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 187,
@@ -3540,7 +3726,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,baseball_coach,baseball_clipboard,gift_for_baseball,baseball_gifts,custom_baseball,coach_baseball,baseball_coaches,end_of_season_gift,baseball_coach_gift,clipboard_for_coach,clipboard_assistant",
     "sku": "ET066-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 188,
@@ -3561,7 +3748,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,baseball_coach,baseball_clipboard,gift_for_baseball,baseball_gifts,custom_baseball,coach_baseball,baseball_coaches,end_of_season_gift,baseball_coach_gift,clipboard_for_coach,clipboard_assistant",
     "sku": "ET065-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 189,
@@ -3581,7 +3769,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET063-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 190,
@@ -3600,7 +3789,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team,custom_swimming,coach_swimming,whiteboard_coach,swimming_coaches,gift_for_swimming",
     "sku": "ET062-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 191,
@@ -3620,7 +3810,8 @@
     ],
     "tags": "Personalized_Gifts,custom_clipboard,End_of_Season_Gift,Gift_for_Coach,Double_Sided,Dry_Erase_Clipbard,Coach_Appreciation,Swim_Coach,Swim_Coach_Clipboard,Swimming_Clipboard,Swim_Coach_Gift_Idea,High_School_Swim,Club_Swim_Team",
     "sku": "ET059-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 192,
@@ -3636,7 +3827,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,christmas_ornament,wedding_gift,couples_gift,baby's_first_bauble,new_parents_gift,first_christmas_gift,Gifts_for_Kids,Christmas_Gift,Baby_Keepsake,Xmas_Tree_Decor,Baby_First_Christmas",
     "sku": "SKU_015_01,SKU_015_02,SKU_015_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 193,
@@ -3656,7 +3848,8 @@
     ],
     "tags": "custom_basketball,engraved_basketball,baketball_player,sports_wall_decor,personalized_player,Basketball_coachgift,Thank_you_coach,custom_coach_gift,basketball_retire,2026_basketball,end_of_season_gift,wood_basketball_sign,Great_Coach_gift",
     "sku": "ET043-TB-WA-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 194,
@@ -3675,7 +3868,8 @@
     ],
     "tags": "Dog_flower_vase,Cat_flower_vase,My_humans_engaged,Custom_PET_Gift,Cat_engagement,Bridal_shower_gift,She_said_yes,My_parents_engaged,Our_humans_married,Custom_flower_vase,Photo_flower_vase,Wedding_Dog_Gift,Couple_gift",
     "sku": "ET071-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 195,
@@ -3691,7 +3885,8 @@
     ],
     "tags": "Around_the_World,Christmas_Ornament,Keepsake_Ornament,Unique_Ornament,Great_Christmas_Gift,Nature_Lover_Gift,Outdoors_Gift,Gift_for_Her,Gift_for_Him,Beautiful_Ornament,Stained_Glass_Look,Grand_Canyon_Arizona,World_Wonders",
     "sku": "SKU_008_01,SKU_008_02,SKU_008_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 196,
@@ -3709,7 +3904,8 @@
     ],
     "tags": "Nurse_Clipboard,Personalized_RN,Graduation_Gift,Custom_Name_Board,NICU_Nurse,Clinical_Gear,Acrylic_Clipboard,nurse_office,nursing_student,medical_assistant,registered_nurse,custom_clipboard,school_clipboard",
     "sku": "ET090-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 197,
@@ -3727,7 +3923,8 @@
     ],
     "tags": "Teacher_Clipboard,Customized_Clipboard,Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Clipboard_With_Name,Gift_For_Teacher,personalized_teacher,custom_teacher_gift,back_to_school,teacher_gifts,gift_from_student,custom_clipboard",
     "sku": "ET_CB_042",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 198,
@@ -3745,7 +3942,8 @@
     ],
     "tags": "Teacher_Clipboard,Customized_Clipboard,Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Clipboard_With_Name,Gift_For_Teacher,personalized_teacher,custom_teacher_gift,back_to_school,teacher_gifts,gift_from_student,custom_clipboard",
     "sku": "ET_CB_038",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 199,
@@ -3763,7 +3961,8 @@
     ],
     "tags": "coach_gifts,coach_appreciation,end_of_season_gift,desk_plaque_coach,pe_teacher_gift,basketball_coach,basketball_gift,basketball_team_gift,basketball_sign,3d_basketball_sign,basketball_plaque,basketball_senior,best_coach_gifts",
     "sku": "ET042-TB-WA-2026",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 200,
@@ -3784,7 +3983,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mom_birthday_gift,mother_daughter,gift_from_daughter,gift_from_kids,custom_family_gift,mom_keepsake,last_name_sign",
     "sku": "ET051-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 201,
@@ -3804,7 +4004,8 @@
     ],
     "tags": "Mothers_Day_Grandma,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mother_daughter,personalised_mummy,gift_from_kids,healthcare_mom_gift,custom_family_gift,mom_keepsake,last_name_sign,mom_wooden_sign",
     "sku": "ET047-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 202,
@@ -3823,7 +4024,8 @@
     ],
     "tags": "soccer_ornament,acrylic_ornament,player_gift,coach_gift,team_keepsake,sports_ornament,senior_night,soccer_player,soccer_decor,soccer_mom_gift,soccer_mom_ornament,giftsoccer_ornament,boyssoccer_team_gift",
     "sku": "SKU_060_03,SKU_056_03",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 203,
@@ -3843,7 +4045,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mom_birthday_gift,mother_daughter,personalised_mummy,Son_to_mother_gift,gift_from_daughter,mommy_gift,gift_from_kids",
     "sku": "ET049-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 204,
@@ -3863,7 +4066,8 @@
     ],
     "tags": "Star_Map_Gift,New_Mom_Gift,First_Mother's_Day,The_Night_You_Became,Baby_Birth_Map,2_Layer_Wood_Sign,Custom_Photo_Sign,Constellation_Map,Celestial_Gift,Mom_Birthday_Gift,family_keepsake,custom_wood_sign,wooden_mom_sign",
     "sku": "ET050-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 205,
@@ -3884,7 +4088,8 @@
     ],
     "tags": "Mothers_Day_Grandma,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mother_daughter,personalised_mummy,gift_from_kids,nurse_mom_sign,custom_nurse_decor,nurse_mom_plaque,healthcare_mom_gift,nursing_mom_sign",
     "sku": "ET046-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 206,
@@ -3906,7 +4111,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mom_birthday_gift,mother_daughter,Son_to_mother_gift,mommy_gift,Military_Mom,Military_Mom_Sign,Name_Military_Wooden",
     "sku": "ET045-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 207,
@@ -3928,7 +4134,8 @@
     ],
     "tags": "car_visor_clip,custom_visor_clip,visor_clip_photo,gift_for_husband,photo_car_visor_clip,photo_visor_clip,anniversary_gift,drive_safe_gift,polaroid_for_car,gift_for_couple,gifts_for_boyfriend,gifts_for_him,boyfriend_gifts",
     "sku": "ET123-TB-CVP-2025,ET118-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 208,
@@ -3950,7 +4157,8 @@
     ],
     "tags": "Mothers_Day_Grandma,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mother_daughter,personalised_mummy,gift_from_kids,nurse_mom_sign,custom_nurse_decor,nurse_mom_plaque,healthcare_mom_gift,nursing_mom_sign",
     "sku": "ET039-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 209,
@@ -3971,7 +4179,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mom_birthday_gift,mother_daughter,gift_from_daughter,mommy_gift,sea_turtle_sign,sea_turtle_gift,turtle_Wooden_sign",
     "sku": "ET038-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 210,
@@ -3992,7 +4201,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,mother's_day_gift,gift_for_mother,grandma_frame,mother_frame,gift_for_mom,mom_birthday_gift,mum_gift,mama_turtle,sea_turtle_beach,grandma_turtle,gift_for_mum",
     "sku": "ET037-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 211,
@@ -4014,7 +4224,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,mother's_day_gift,gift_for_mother,grandma_frame,gift_for_mom,mom_birthday_gift,mother_daughter,personalised_mummy,Son_to_mother_gift,gift_from_daughter,mommy_gift,gift_from_kids",
     "sku": "ET034-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 212,
@@ -4035,7 +4246,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,First_Mom_Now,mother's_day_gift,gift_for_mother,grandma_frame,mother_frame,gift_for_mom,mom_birthday_gift,long_distance_mom,family_map_print,miles_apart_canvas,mother_daughter",
     "sku": "ET035-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 213,
@@ -4055,7 +4267,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,First_Mom_Now,mother's_day_gift,gift_for_mom,gift_for_mother,grandma_frame,mother_frame,custom_bee_phase,custom_bee,personalized_bee,grandkids_name,mothers_day",
     "sku": "ET033-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 214,
@@ -4075,7 +4288,8 @@
     ],
     "tags": "Mothers_Day_Grandma,Gift_From_Grandkids,First_Mom_Now,mother's_day_gift,gift_for_mom,gift_for_mother,grandma_frame,mother_frame,custom_moon_phase,custom_moon_print,custom_moon,moon_phase_gift,personalized_moon",
     "sku": "ET032-TB-WA-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 215,
@@ -4092,7 +4306,8 @@
     ],
     "tags": "nurse_door_hanger,stethoscope_bow,medical_door_sign,nurse_home_decor,healthcare_decor,front_door_sign,nurse_wall_decor,medical_entry_sign,bow_door_hanger,nurse_decor_sign,healthcare_sign,nurse_symbol_art,door_wall_hanger",
     "sku": "ET030-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 216,
@@ -4112,7 +4327,8 @@
     ],
     "tags": "Birth_Flower_Vase,Gift_for_Wife,Anniversary_Gift,Custom_Flower_Vase,Personalized_Gift,Birthday_Gift_Her,gifts_for_couples,gift_for_mom,1st_birthday_gift,personalised_gift,custom_name,boho_wildflower,baby_gift",
     "sku": "ET029-TB-FV-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 217,
@@ -4133,7 +4349,8 @@
     ],
     "tags": "Birth_Flower_Vase,Gift_for_Wife,Anniversary_Gift,Valentine_Day_Gift,Custom_Flower_Vase,Personalized_Gift,Birthday_Gift_Her,Ceramic_Vase,Engagement_Gift,New_Home_Gift,gifts_for_couples,5th_anniversary_gift,gift_for_mom",
     "sku": "ET024-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 218,
@@ -4154,7 +4371,8 @@
     ],
     "tags": "gift_for_mother,gift_from_daughter,Custom_mom_gift,mom_photo_collage,daughter_to_mom,mom_photo_collag,Mother's_day_gift,Birthday_Mom_Gift,Mom_Bday,Holiday_gift_for_mom,moms_birthday_gifts,gifts_from_kids,Grandmas_garden_gift",
     "sku": "ET030-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 219,
@@ -4173,7 +4391,8 @@
     ],
     "tags": "gift_for_mother,gift_from_daughter,Custom_mom_gift,mom_photo_collage,mommy_mama_step_mom,mother_birthday_gift,daughter_to_mom,puzzle_piece_sign,Puzzle_Pieces,mom_gift_from_kids,gift_for_mom,custom_gift_for_mom,puzzle_piece_mom",
     "sku": "ET027-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 220,
@@ -4193,7 +4412,8 @@
     ],
     "tags": "gift_for_mother,gift_from_daughter,Custom_mom_gift,daughter_to_mom,mom_photo_collag,Mother's_day_gift,Birthday_Mom_Gift,From_Daughter,long_distance_states,gift_for_mom,mothers_day_gift,mothers_day,mother_daughter",
     "sku": "ET026-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 221,
@@ -4213,7 +4433,8 @@
     ],
     "tags": "gift_for_mother,gift_from_daughter,Custom_mom_gift,mom_photo_collage,daughter_to_mom,mom_photo_collag,Mother's_day_gift,Birthday_Mom_Gift,Mom_Bday,Holiday_gift_for_mom,moms_birthday_gifts,gifts_from_kids,Grandmas_garden_gift",
     "sku": "ET025-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 222,
@@ -4233,7 +4454,8 @@
     ],
     "tags": "gift_for_mother,gift_from_daughter,Custom_mom_gift,mom_photo_collage,mommy_mama_step_mom,mother_birthday_gift,daughter_to_mom,mom_photo_collag,mother_photo_collage,Mother's_day_gift,Birthday_Mom_Gift,From_Daughter,Mom_Bday",
     "sku": "ET020-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 223,
@@ -4249,7 +4471,8 @@
     ],
     "tags": "40th_anniversary,ruby_anniversary,couple_gift,suncatcher_decor,window_ornament,cardinal_lovers,wedding_keepsake,anniversary_gift,parents_gift,home_decor,love_birds,custom_anniversary,Anniversary_Keepsake",
     "sku": "SKU_042_01",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 224,
@@ -4269,7 +4492,8 @@
     ],
     "tags": "gift_for_mother,gift_from_daughter,Custom_mom_gift,mom_photo_collage,mommy_mama_step_mom,mother_birthday_gift,daughter_to_mom,mom_photo_collag,custom_kid_name_sign,mother_photo_collage,Mother's_day_gift,Gift_from_children,mom_photo_frame",
     "sku": "ET019-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 225,
@@ -4289,7 +4513,8 @@
     ],
     "tags": "personalized_frame,photo_picture_frames,in_loving_memory_of,remembrance_gifts,memory_keepsake_gift,sympathy_presents,forever_in_my_heart,custom_mom_memorial,loss_of_mother_grief,mama_in_heaven,mom_in_heaven_frame,In_Loving_Memory,acrylic_sign_funeral",
     "sku": "ET015-TB-SAB-2026",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 226,
@@ -4309,7 +4534,8 @@
     ],
     "tags": "mom_birthday_gift,mom_with_kids_name,mom_gift,new_mom_gift,custom_photo_mom,custom_mom_photo,gift_for_mom,gift_for_grandma,mothers_day_gift,mothers_day,mother_daughter,daughter_mothers_day,for_daughter",
     "sku": "ET015-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 227,
@@ -4329,7 +4555,8 @@
     ],
     "tags": "mom_birthday_gift,mom_with_kids_name,mom_gift,new_mom_gift,custom_photo_mom,custom_mom_photo,gift_for_mom,gift_for_grandma,mothers_day_gift,mothers_day,mother_daughter,daughter_mothers_day,for_daughter",
     "sku": "ET016-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 228,
@@ -4349,7 +4576,8 @@
     ],
     "tags": "mom_birthday_gift,mom_with_kids_name,mom_gift,new_mom_gift,custom_photo_mom,custom_mom_photo,gift_for_mom,gift_for_grandma,mothers_day_gift,mothers_day,mother_daughter,daughter_mothers_day,for_daughter",
     "sku": "ET016-TB-SAB-2026",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 229,
@@ -4365,7 +4593,8 @@
     ],
     "tags": "Teacher_Clip_Board,Teacher_Clipboard,Custom_Clipboard,Back_to_School_Gift,Preschool_Clipboard,Uv_Printed_Clipboard,Teach_Clip_Board,Crayons_Clipboard,Colorful_Clipboard,Custom_Clip_Board,Gift_for_Her,Teacher_Gift,Teacher_Clip_Boards",
     "sku": "ET010-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 230,
@@ -4381,7 +4610,8 @@
     ],
     "tags": "Teacher_Clip_Board,Teacher_Clipboard,Custom_Clipboard,Back_to_School_Gift,Preschool_Clipboard,Teach_Clip_Board,Colorful_Clipboard,Custom_Clip_Board,Teacher_Clip_Boards,1st_grade_teacher,school_supplies,teacher_supplies,acrylic_clipboard",
     "sku": "ET013-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 231,
@@ -4401,7 +4631,8 @@
     ],
     "tags": "photo_acrylic_block,gift_for_him,gift_for_husband,husband_valentine,custom_couple_photo,anniversary_keepsake,husband_wife_gift,wedding_gift,photo_desk_decor,trading_card_gift,anniversary_plaque,wedding_anniversary,golden_anniversary",
     "sku": "ET011-TB-SAB-2026",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 232,
@@ -4422,7 +4653,8 @@
     ],
     "tags": "photo_acrylic_block,valentines_day_gift,gift_for_him,gift_for_husband,husband_valentine,couple_photo_gift,boyfriend_gift,custom_couple_photo,anniversary_keepsake,husband_wife_gift,wedding_gift,photo_desk_decor,trading_card_gift",
     "sku": "ET003-TB-SAB-2026",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 233,
@@ -4440,7 +4672,8 @@
     ],
     "tags": "Gift_From_Kids,Gift_for_Her,Gift_for_Mom,Mom_Photo_Plaque,Mothers_Day_Gift,Mother_Daughter_Son,mom_acrylic_light,custom_mother_gift,Gift_for_Grandma,Mother's_Day_Gift,Grandma_Christmas,Grandma_Birthday,Nana_Mimi_Gifts",
     "sku": "ET104-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 234,
@@ -4462,7 +4695,8 @@
     ],
     "tags": "photo_acrylic_block,valentines_day_gift,gift_for_him,gift_for_husband,boyfriend_gift,custom_couple_photo,anniversary_keepsake,wedding_gift,Gift_for_Couples,Photo_Gifts,Portrait_Gift,Wedding_Gifts,Gift_for_Girlfriend",
     "sku": "ET009-TB-SAB-2026",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 235,
@@ -4483,7 +4717,8 @@
     ],
     "tags": "photo_acrylic_block,valentines_day_gift,gift_for_him,gift_for_husband,husband_valentine,couple_photo_gift,boyfriend_gift,custom_couple_photo,anniversary_keepsake,husband_wife_gift,wedding_gift,photo_desk_decor,trading_card_gift",
     "sku": "ET001-TB-SAB-2026",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 236,
@@ -4502,7 +4737,8 @@
     ],
     "tags": "Birth_Flower_Vase,Gift_for_Wife,Anniversary_Gift,Valentine_Day_Gift,Custom_Flower_Vase,Personalized_Gift,Birthday_Gift_Her,Ceramic_Vase,Engagement_Gift,New_Home_Gift,gifts_for_couples,5th_anniversary_gift,gift_for_mom",
     "sku": "ET059-TB-FV-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 237,
@@ -4518,7 +4754,8 @@
     ],
     "tags": "Teacher_Clip_Board,Teacher_Clipboard,Custom_Clipboard,Back_to_School_Gift,Preschool_Clipboard,Uv_Printed_Clipboard,Teach_Clip_Board,Crayons_Clipboard,Colorful_Clipboard,Custom_Clip_Board,Gift_for_Her,Teacher_Gift,Teacher_Clip_Boards",
     "sku": "ET006-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 238,
@@ -4538,7 +4775,8 @@
     ],
     "tags": "Anniversary_gift,newlywed_gift,Miss_to_Mrs_gift,Wedding_Gift_for_him,Wedding_Anniversary,Wedding_Lamp_Gift,Wedding_Couple_print,Wedding_Keepsake,Wedding_Signage,Wedding_Lamp,Bride_and_Groom_Gift,Wedding_Decoration,Wedding_Gift",
     "sku": "ET102-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 239,
@@ -4555,7 +4793,8 @@
     ],
     "tags": "Teacher_Clip_Board,Teacher_Clipboard,Custom_Clipboard,Back_to_School_Gift,Preschool_Clipboard,Uv_Printed_Clipboard,Teach_Clip_Board,Crayons_Clipboard,Gift_for_Her,Teacher_Gift,Teacher_Clip_Boards,math_teacher_mom,Math_is_My_Jam",
     "sku": "ET007-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 240,
@@ -4571,7 +4810,8 @@
     ],
     "tags": "Teacher_Clip_Board,Teacher_Clipboard,Custom_Clipboard,Back_to_School_Gift,Preschool_Clipboard,Uv_Printed_Clipboard,Teach_Clip_Board,Crayons_Clipboard,Colorful_Clipboard,Custom_Clip_Board,Gift_for_Her,Teacher_Gift,Teacher_Clip_Boards",
     "sku": "ET010-TB-CB-2026",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 241,
@@ -4589,7 +4829,8 @@
     ],
     "tags": "Gift_From_Kids,Gift_for_Her,Gift_for_Mom,Mom_Photo_Plaque,Mothers_Day_Gift,Mother_Daughter_Son,mom_acrylic_light,custom_mother_gift,Gift_for_Grandma,Mother's_Day_Gift,Grandma_Christmas,Grandma_Birthday,Nana_Mimi_Gifts",
     "sku": "ET108-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 242,
@@ -4605,7 +4846,8 @@
     ],
     "tags": "photo_acrylic_block,valentines_day_gift,gift_for_him,gift_for_husband,husband_valentine,couple_photo_gift,boyfriend_gift,custom_couple_photo,anniversary_keepsake,husband_wife_gift,wedding_gift,photo_desk_decor,trading_card_gift",
     "sku": "ET004-TB-SAB-2026",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 243,
@@ -4621,7 +4863,8 @@
     ],
     "tags": "photo_acrylic_block,valentines_day_gift,gift_for_him,gift_for_husband,husband_valentine,couple_photo_gift,boyfriend_gift,custom_couple_photo,anniversary_keepsake,husband_wife_gift,wedding_gift,photo_desk_decor,trading_card_gift",
     "sku": "ET002-TB-SAB-2026",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 244,
@@ -4639,7 +4882,8 @@
     ],
     "tags": "Anniversary_gift,newlywed_gift,Miss_to_Mrs_gift,Wedding_Gift_for_him,Wedding_Anniversary,Wedding_Lamp_Gift,Wedding_Couple_print,Wedding_Keepsake,Wedding_Signage,Wedding_Lamp,Bride_and_Groom_Gift,Wedding_Decoration,Wedding_Gift",
     "sku": "ET103-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 245,
@@ -4658,7 +4902,8 @@
     ],
     "tags": "Anniversary_gift,newlywed_gift,Miss_to_Mrs_gift,Wedding_Gift_for_him,Wedding_Anniversary,Wedding_Lamp_Gift,Wedding_Couple_print,Wedding_Keepsake,Wedding_Signage,Wedding_Lamp,Bride_and_Groom_Gift,Wedding_Decoration,Wedding_Gift",
     "sku": "ET104-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 246,
@@ -4676,7 +4921,8 @@
     ],
     "tags": "Family_Picture_Sign,Gift_for_Her,Mothers_Day_Gift,mom_acrylic_light,custom_mother_gift,mother_night_light,Mother's_Day_Gifts,Mama_Picture_Stand,Gift_For_Mom,Picture_Frame,custom_night_light,personalized_light,Night_Light_Stand",
     "sku": "ET108-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 247,
@@ -4695,7 +4941,8 @@
     ],
     "tags": "Family_Picture_Sign,Acrylic_with_Light,Personalized_Gifts,Gift_for_Husband,Gift_From_Kids,Gift_for_Her,Gift_for_Mom,Mom_Photo_Plaque,Mothers_Day_Gift,Mother_Daughter_Son,mom_acrylic_light,custom_mother_gift,mother_night_light",
     "sku": "ET107-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 248,
@@ -4715,7 +4962,8 @@
     ],
     "tags": "Family_Picture_Sign,Acrylic_with_Light,Personalized_Gifts,Gift_for_Husband,Gift_From_Kids,Gift_for_Her,Gift_for_Mom,Mom_Photo_Plaque,Mothers_Day_Gift,Mother_Daughter_Son,mom_acrylic_light,custom_mother_gift,mother_night_light",
     "sku": "ET97-TB-PFL-2025",
-    "category": "Night Lights & Lamps"
+    "category": "Night Lights & Lamps",
+    "variations": []
   },
   {
     "id": 249,
@@ -4737,7 +4985,8 @@
     ],
     "tags": "car_visor_clip,custom_visor_clip,visor_clip_photo,gift_for_husband,photo_car_visor_clip,photo_visor_clip,drive_safe_gift,polaroid_for_car,gift_for_couple,photo_car_clip,acrylic_photo_clip,Personalized_Photo,Couple_Car_Visor",
     "sku": "ET120-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 250,
@@ -4759,7 +5008,8 @@
     ],
     "tags": "car_visor_clip,custom_visor_clip,visor_clip_photo,gift_for_husband,photo_car_visor_clip,photo_visor_clip,drive_safe_gift,polaroid_for_car,gift_for_couple,photo_car_clip,acrylic_photo_clip,Personalized_Photo,Couple_Car_Visor",
     "sku": "ET119-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 251,
@@ -4781,7 +5031,8 @@
     ],
     "tags": "car_visor_clip,custom_visor_clip,visor_clip_photo,gift_for_husband,photo_car_visor_clip,photo_visor_clip,anniversary_gift,drive_safe_gift,polaroid_for_car,gift_for_couple,gifts_for_boyfriend,gifts_for_him,boyfriend_gifts",
     "sku": "ET118-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 252,
@@ -4803,7 +5054,8 @@
     ],
     "tags": "car_visor_clip,custom_visor_clip,visor_clip_photo,gift_for_husband,photo_car_visor_clip,photo_visor_clip,anniversary_gift,drive_safe_gift,polaroid_for_car,gift_for_couple,gifts_for_boyfriend,gifts_for_him,boyfriend_gifts",
     "sku": "ET117-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 253,
@@ -4823,7 +5075,8 @@
     ],
     "tags": "car_visor_clip,custom_visor_clip,visor_clip_photo,gift_for_husband,photo_car_visor_clip,photo_visor_clip,anniversary_gift,drive_safe_gift,polaroid_for_car,gift_for_couple,gifts_for_boyfriend,gifts_for_him,boyfriend_gifts",
     "sku": "ET117-TB-CVP-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 254,
@@ -4839,7 +5092,8 @@
     ],
     "tags": "car_visor_clip,custom_visor_clip,visor_clip_photo,gift_for_husband,photo_car_visor_clip,photo_visor_clip,anniversary_gift,drive_safe_gift,polaroid_for_car,gift_for_couple,gifts_for_boyfriend,gifts_for_him,boyfriend_gifts",
     "sku": "ET115-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 255,
@@ -4855,7 +5109,8 @@
     ],
     "tags": "car_visor_clip,visor_clip_photo,gift_for_couple,boyfriend_gifts,custom_visor_clip,photo_visor_clip,valentines_gift,gift_for_husband,Romantic_Car_Gift,Drive_Safe_Husband,Photo_sun_visor_clip,men_visor_clip,anniversary_gift",
     "sku": "ET115-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 256,
@@ -4873,7 +5128,8 @@
     ],
     "tags": "car_visor_clip,visor_clip_photo,gift_for_couple,boyfriend_gifts,custom_visor_clip,photo_visor_clip,valentines_gift,gift_for_husband,Romantic_Car_Gift,Drive_Safe_Husband,Photo_sun_visor_clip,men_visor_clip,anniversary_gift",
     "sku": "ET116-TB-CVP-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 257,
@@ -4892,7 +5148,8 @@
     ],
     "tags": "custom_clipboard,school_clipboard,acrylic_clipboard,doctor_gift_idea,nurse_appreciation,school_nurse_gift,nursing_school_gift,nurse_clipboard,nurse_office,nursing_student,medical_assistant,registered_nurse,gift_for_nurse",
     "sku": "ET089-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 258,
@@ -4911,7 +5168,8 @@
     ],
     "tags": "friend_engaged_gift,my_humans_engaged,my_humans_married,our_humans_married,engagement_dog_gift,my_parents_engaged,custom_pet_gift,pet_engagement_gift,dog_portrait_glass,pet_engaged_glass,pet_lover_gift,couples_gift,engagement_vase",
     "sku": "ET066-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 259,
@@ -4927,7 +5185,8 @@
     ],
     "tags": "christmas_gifts,Christmas_2025,christmas_gift,New_Home_Christmas,new_house_gift,our_first_home,wooden_2_layered,laser_ornament,new_home_gift,new_beginnings,christmas_in_home,new_home_ornament,New_House_Ornament",
     "sku": "SKU_051_01,SKU_051_02",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 260,
@@ -4944,7 +5203,8 @@
     ],
     "tags": "Nurse_Clipboard,Personalized_RN,Nursing_Student,Graduation_Gift,Custom_Name_Board,Medical_Gift,NICU_Nurse,Clinical_Gear,Acrylic_Clipboard,LPN_CNA_Gift,Doctor_Gift,Healthcare_Hero,Medical_Assistant",
     "sku": "ET091-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 261,
@@ -4962,7 +5222,8 @@
     ],
     "tags": "Nurse_Clipboard,Personalized_RN,Nursing_Student,Graduation_Gift,Custom_Name_Board,Medical_Gift,NICU_Nurse,Clinical_Gear,Acrylic_Clipboard,LPN_CNA_Gift,Doctor_Gift,Healthcare_Hero,Medical_Assistant",
     "sku": "ET088-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 262,
@@ -4983,7 +5244,8 @@
     ],
     "tags": "custom_clipboard,doctor_gift_idea,nurse_appreciation,school_nurse_gift,nursing_school_gift,nurse_clipboard,nursing_student,medical_assistant,registered_nurse,gift_for_nurse,acrylic_clipboard,school_clipboard,nurse_office",
     "sku": "ET087-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 263,
@@ -5001,7 +5263,8 @@
     ],
     "tags": "Medical_Assistant,New_Nurse_Gift,Nurse_Graduation,Nurse_Gift,Nurse_Clipboard,RN_BSN_Nurse,RN_Nurse_Clipboard,Nurse_Stuff,Gift_For_Nurse,Gift_For_Daughter,Graduation_Nurse,Gift_For_Her,Nurse_School_Gift",
     "sku": "ET085-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 264,
@@ -5019,7 +5282,8 @@
     ],
     "tags": "Medical_Assistant,New_Nurse_Gift,Nurse_Graduation,Nurse_Gift,Nurse_Clipboard,RN_BSN_Nurse,RN_Nurse_Clipboard,Nurse_Stuff,Gift_For_Nurse,Gift_For_Daughter,Graduation_Nurse,Gift_For_Her,Nurse_School_Gift",
     "sku": "ET086-TB-CB-2025",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 265,
@@ -5038,7 +5302,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET084-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 266,
@@ -5057,7 +5322,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET083-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 267,
@@ -5077,7 +5343,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET082-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 268,
@@ -5097,7 +5364,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET082-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 269,
@@ -5117,7 +5385,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET081-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 270,
@@ -5137,7 +5406,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET081-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 271,
@@ -5154,7 +5424,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,Remembrance_Ornament,Christmas_in_heaven,Loss_dad_gift,memorial_ornament,Christmas_2025,I'm_always_with_you,Memorial_Gift,Christmas_Ornaments,Sympathy_Loss_Gift,in_memory_of_dad,Custom_Memorial_Gift",
     "sku": "SKU_037_01,SKU_037_02,SKU_037_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 272,
@@ -5173,7 +5444,8 @@
     ],
     "tags": "Best_Mom_Ever,Mama_Bear_Vase,Personalized_Gift,Mothers_Day_Gift,Custom_Flower_Vase,Bear_Mom_Gift,Kids_Names_Vase,Floral_Mom_Decor,Nana_Birthday_Gift,Ceramic_Pitcher,Personalized_Mum,Grandma_Garden,Family_Keepsake",
     "sku": "ET079-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 273,
@@ -5192,7 +5464,8 @@
     ],
     "tags": "Mama_Bear_Vase,Personalized_Gift,Mothers_Day_Gift,Bear_Mom_Gift,Custom_Floral_Vase,Birthday_Gift_Mom,Flower_Pitcher,Kids_Names_Vase,Personalized_Mum,Ceramic_Flower_Vase,Best_Mom_Ever,Floral_Mom_Decor",
     "sku": "ET079-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 274,
@@ -5209,7 +5482,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,Remembrance_Ornament,Christmas_in_heaven,Loss_dad_gift,memorial_ornament,Christmas_2025,I'm_always_with_you,Memorial_Gift,Christmas_Ornaments,Sympathy_Loss_Gift,in_memory_of_dad,Custom_Memorial_Gift",
     "sku": "SKU_036_01,SKU_036_02,SKU_036_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 275,
@@ -5226,7 +5500,8 @@
     ],
     "tags": "football_ornament,sports_ornament,acrylic_ornament,senior_night,custom_name_gift,team_keepsake,football_decor,christmas_ornament,school_spirit,Gift_for_Boyfriend,gift_for_mom,2d_football_player,football_mom_gift",
     "sku": "SKU_057_03,SKU_056_03",
-    "category": "Coach & Sports"
+    "category": "Coach & Sports",
+    "variations": []
   },
   {
     "id": 276,
@@ -5243,7 +5518,8 @@
     ],
     "tags": "american_citizen,citizenship_gift,patriotic_ornament,glass_ornament,american_flag_decor,usa_pride,new_citizen_gift,patriotic_christmas,holiday_keepsake,US_Citizen,christmas_ornament,new_USA_citizen,american_citizenship",
     "sku": "SKU_066_01,SKU_066_02,SKU_066_03,SKU_061_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 277,
@@ -5262,7 +5538,8 @@
     ],
     "tags": "Grandma_Garden_Vase,Dog_Engagement,Custom_Pet_Vase,Birth_Flower_Vase,Dog_Mom_Gift,Puppy_Proposal,Personalized_Vase,Dog_Lover_Gift,Pet_Memorial,Ceramic_Jug_Vase,Line_Art_Pet,Nana_Birthday_Gift,Mothers_Day_Gift",
     "sku": "ET078-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 278,
@@ -5281,7 +5558,8 @@
     ],
     "tags": "Grandma_Garden_Vase,Dog_Engagement,Custom_Pet_Vase,Birth_Flower_Vase,Dog_Mom_Gift,Puppy_Proposal,Personalized_Vase,Dog_Lover_Gift,Pet_Memorial,Ceramic_Jug_Vase,Line_Art_Pet,Nana_Birthday_Gift,Mothers_Day_Gift",
     "sku": "ET077-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 279,
@@ -5300,7 +5578,8 @@
     ],
     "tags": "Grandma_Garden_Vase,Dog_Engagement,Custom_Pet_Vase,Birth_Flower_Vase,Dog_Mom_Gift,Puppy_Proposal,Personalized_Vase,Dog_Lover_Gift,Pet_Memorial,Ceramic_Jug_Vase,Line_Art_Pet,Nana_Birthday_Gift,Mothers_Day_Gift",
     "sku": "ET076-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 280,
@@ -5319,7 +5598,8 @@
     ],
     "tags": "Our_Humans_Married,Dog_Engagement,Custom_Pet_Vase,Pet_Wedding_Decor,Dog_Mom_Gift,Puppy_Proposal,Personalized_Vase,Dog_Lover_Gift,Pet_Memorial,Ceramic_Jug_Vase,Line_Art_Pet,Unique_Pet_Gift",
     "sku": "ET074-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 281,
@@ -5337,7 +5617,8 @@
     ],
     "tags": "Our_Humans_Married,Dog_Engagement,Custom_Pet_Vase,Pet_Wedding_Decor,Dog_Mom_Gift,Puppy_Proposal,Personalized_Vase,Dog_Lover_Gift,Pet_Memorial,Ceramic_Jug_Vase,Line_Art_Pet,Save_The_Date_Dog,Unique_Pet_Gift",
     "sku": "ET074-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 282,
@@ -5356,7 +5637,8 @@
     ],
     "tags": "Dog_Engagement,Custom_Flower_Vase,Wedding_Dog_Sign,Pet_Wedding_Decor,Dog_Mom_Gift,Puppy_Proposal,Personalized_Vase,Dog_Lover_Gift,Pet_Memorial,Ceramic_Jug_Vase,Save_The_Date_Dog,Line_Art_Pet,Engagement_Vase",
     "sku": "ET073-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 283,
@@ -5375,7 +5657,8 @@
     ],
     "tags": "Dog_Engagement,Custom_Flower_Vase,Wedding_Dog_Sign,Pet_Wedding_Decor,Dog_Mom_Gift,Puppy_Proposal,Personalized_Vase,Dog_Lover_Gift,Pet_Memorial,Ceramic_Jug_Vase,Save_The_Date_Dog,Line_Art_Pet,Engagement_Vase",
     "sku": "ET073-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 284,
@@ -5394,7 +5677,8 @@
     ],
     "tags": "Dog_flower_vase,Cat_flower_vase,Cat_engagement,Bridal_shower_gift,She_said_yes,Our_humans_married,Custom_flower_vase,Wedding_Dog_Gift,Couple_gift,Dog_Lover_Gift,Pet_Memorial,Engagement_Vase,Dog_Mom_Present",
     "sku": "ET072-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 285,
@@ -5413,7 +5697,8 @@
     ],
     "tags": "Custom_Dog_Vase,Pet_Portrait_Gift,Dog_Line_Art_Art,Wedding_Dog_Sign,Dog_Lover_Gift,Pet_Memorial,Engagement_Vase,Dog_Mom_Present,Custom_Pet_Art,Ceramic_Jug_Vase,Puppy_Keepsake,Boxer_Dog_Gift,Unique_Pet_Gift",
     "sku": "ET072-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 286,
@@ -5432,7 +5717,8 @@
     ],
     "tags": "Dog_flower_vase,Cat_flower_vase,My_humans_engaged,Custom_PET_Gift,Cat_engagement,Bridal_shower_gift,She_said_yes,My_parents_engaged,Our_humans_married,Custom_flower_vase,Photo_flower_vase,Wedding_Dog_Gift,Couple_gift",
     "sku": "ET071-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 287,
@@ -5451,7 +5737,8 @@
     ],
     "tags": "Dog_flower_vase,Cat_flower_vase,My_humans_engaged,Custom_PET_Gift,Cat_engagement,Bridal_shower_gift,She_said_yes,My_parents_engaged,Our_humans_married,Custom_flower_vase,Photo_flower_vase,Wedding_Dog_Gift,Couple_gift",
     "sku": "ET071-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 288,
@@ -5470,7 +5757,8 @@
     ],
     "tags": "my_humans_engaged,my_humans_married,our_humans_married,engagement_dog_gift,my_parents_engaged,custom_pet_gift,pet_engagement_gift,pet_lover_gift,couples_gift,engagement_vase,cat_wedding_day,wedding_gift_dog,pet_wedding",
     "sku": "ET070-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 289,
@@ -5487,7 +5775,8 @@
     ],
     "tags": "ballerina_ornament,dance_gift,ballet_ornament,acrylic_ornament,custom_photo_gift,christmas_decor,recital_gift,dancer_gift,girls_ornament,ballet_keepsake,dance_teacher_gift,holiday_ornament,ballerina_keepsake",
     "sku": "SKU_073_01,SKU_073_03,SKU_073_02",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 290,
@@ -5506,7 +5795,8 @@
     ],
     "tags": "Back_to_School_Gift,Acrylic_Clipboard,Teacher_Name_Gifts,Gift_For_Teacher,personalized_teacher,Personalized_Gift,Back_To_School,Rainbow_Teacher,Teacher_Supplies,Classroom_Decor,Teacher_Thank_You,School_Supply,Custom_Clipboard",
     "sku": "ET-CB-20",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 291,
@@ -5523,7 +5813,8 @@
     ],
     "tags": "american_citizen,patriotic_ornament,glass_ornament,american_flag_decor,usa_pride,new_citizen_gift,patriotic_christmas,holiday_keepsake,christmas_ornament,new_USA_citizen,american_citizenship,freedom_gift,citizenship_ornament",
     "sku": "SKU_066_01,SKU_066_02,SKU_066_03,SKU_061_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 292,
@@ -5540,7 +5831,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,Remembrance_Ornament,Christmas_in_heaven,Loss_dad_gift,memorial_ornament,Christmas_2025,I'm_always_with_you,Memorial_Gift,Christmas_Ornaments,Sympathy_Loss_Gift,in_memory_of_dad,Custom_Memorial_Gift",
     "sku": "SKU_039_01,SKU_039_02,SKU_039_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 293,
@@ -5557,7 +5849,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,baby's_first_keepsak,family_of_four,new_family_ornament,family_ornament,baby's_first,baby_first_christmas,baby_ornament,family_of_three,family_of_five,family_of_six,Custom_Baby_Xmas",
     "sku": "SKU_035_01",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 294,
@@ -5576,7 +5869,8 @@
     ],
     "tags": "friend_engaged_gift,my_humans_engaged,my_humans_married,our_humans_married,engagement_dog_gift,my_parents_engaged,custom_pet_gift,pet_engagement_gift,dog_portrait_glass,pet_engaged_glass,pet_lover_gift,couples_gift,engagement_vase",
     "sku": "ET069-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 295,
@@ -5595,7 +5889,8 @@
     ],
     "tags": "friend_engaged_gift,my_humans_engaged,my_humans_married,our_humans_married,engagement_dog_gift,my_parents_engaged,custom_pet_gift,pet_engagement_gift,dog_portrait_glass,pet_engaged_glass,engagement_vase,Engagement_Gifts_Pet,Engagement_Present",
     "sku": "ET068-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 296,
@@ -5614,7 +5909,8 @@
     ],
     "tags": "friend_engaged_gift,my_humans_engaged,my_humans_married,our_humans_married,engagement_dog_gift,my_parents_engaged,custom_pet_gift,pet_engagement_gift,dog_portrait_glass,pet_engaged_glass,pet_lover_gift,couples_gift,engagement_vase",
     "sku": "ET067-TB-FV-2025",
-    "category": "Pet Memorial"
+    "category": "Pet Memorial",
+    "variations": []
   },
   {
     "id": 297,
@@ -5630,7 +5926,8 @@
     ],
     "tags": "nutcracker_gift,christmas_decor,suncatcher,ballet_ornament,dancer_gift,clara_ornament,custom_suncatcher,nutcracker_decor,christmas_gift,ballet_keepsake,window_hanging,personalized_gift,holiday_ornament",
     "sku": "SKU_054_01",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 298,
@@ -5649,7 +5946,8 @@
     ],
     "tags": "Birth_Flower_Vase,Gift_for_Wife,Anniversary_Gift,Valentine_Day_Gift,Custom_Flower_Vase,Personalized_Gift,Birthday_Gift_Her,Ceramic_Vase,Engagement_Gift,Floral_Home_Decor,Mothers_Day_Gift,New_Home_Gift,Botanical_Gift",
     "sku": "ET058-TB-FV-2025",
-    "category": "Wedding & Couples"
+    "category": "Wedding & Couples",
+    "variations": []
   },
   {
     "id": 299,
@@ -5668,7 +5966,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET057-TB-FV-2025",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 300,
@@ -5687,7 +5986,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET051-TB-VF-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 301,
@@ -5706,7 +6006,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET053-TB-FV-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 302,
@@ -5727,7 +6028,8 @@
     ],
     "tags": "Football_Coach_Gift,Coach_Clipboard,Custom_Clipboard,Acrylic_Clipboard,Team_Coach_Gift,Personalized_Coach,End_Season_Gift,Football_Team,Gridiron_Coach,Sports_Coach_Gift,Coach_Thank_You,Football_Strategy,Game_Day_Board",
     "sku": "ET064-TB-CB-2025,ET-CB-20",
-    "category": "Clipboards"
+    "category": "Clipboards",
+    "variations": []
   },
   {
     "id": 303,
@@ -5746,7 +6048,8 @@
     ],
     "tags": "Flower_Vase,Custom_Flower_Vase,Nana_Jug,Nana_Flower_Jug,Great_Nanny_Presents,Flower_Vase_for_Nana,Gift_for_Grandma,Mother's_Day_Gift,Custom_Flower_Vases,Nanas_Vase,Birth_Flower_Gift,Name_Flower_Vase,Family_Flower_Vase",
     "sku": "ET051-TB-VF-2025",
-    "category": "Other"
+    "category": "Other",
+    "variations": []
   },
   {
     "id": 304,
@@ -5763,7 +6066,8 @@
     ],
     "tags": "firefighter_gift,firetruck_ornament,fireman_dad_gift,christmas_ornament,glass_ornament,firefighter_decor,first_responder_gift,christmas_gift,custom_ornament,fire_station_gift,holiday_keepsake,kids_firetruck",
     "sku": "SKU_068_01,SKU_068_02,SKU_068_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 305,
@@ -5780,7 +6084,8 @@
     ],
     "tags": "christmas_gifts,custom_ornament,Christmas_2025,thank_you_keepsake,thank_you_ornament,ornament_keepsake,neighbor,christmas_neighbor,for_neighbor,best_neighbor,gift_neighbor,thank_you_gift,holiday_ornament",
     "sku": "SKU_048_02,SKU_048_03,SKU_048_01",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 306,
@@ -5797,7 +6102,8 @@
     ],
     "tags": "best_team_ever,group_ornaments,employee_gift,amazing_team,thank_you_team,team_member_gift,work_appreciation,corporate_gift,christmas_decor,office_team_gift,glass_ornament,coworker_gift,office_christmas",
     "sku": "SKU_096_01,SKU_096_02,SKU_096_03,SKU_061_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 307,
@@ -5814,7 +6120,8 @@
     ],
     "tags": "nutcracker_gift,ballet_ornament,glass_ornament,dancer_gift,christmas_decor,personalized_gift,clara_ornament,ballet_keepsake,nutcracker_decor,holiday_tree,custom_ornament,dancer_keepsake,ballet_christmas",
     "sku": "SKU_053_01,SKU_053_02,SKU_053_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 308,
@@ -5831,7 +6138,8 @@
     ],
     "tags": "nutcracker_gift,ballet_ornament,glass_ornament,dancer_gift,christmas_decor,personalized_gift,clara_ornament,ballet_keepsake,nutcracker_decor,holiday_tree,custom_ornament,dancer_keepsake,ballet_christmas",
     "sku": "SKU_054_01,SKU_054_02,SKU_054_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 309,
@@ -5848,7 +6156,8 @@
     ],
     "tags": "custom_ornament,christmas_ornament,Gifts_for_Kids,thank_you_keepsake,ornament_keepsake,neighbor,best_neighbor,gift_neighbor,christmas_neighbor,for_neighbor,thank_you_ornament,thank_you_gift,holiday_ornament",
     "sku": "SKU_047_01,SKU_047_02,SKU_047_03",
-    "category": "Christmas & Ornaments"
+    "category": "Christmas & Ornaments",
+    "variations": []
   },
   {
     "id": 310,
@@ -5868,6 +6177,342 @@
     ],
     "tags": "soccer_ornament,acrylic_ornament,player_gift,coach_gift,team_keepsake,sports_ornament,senior_night,soccer_player,soccer_decor,soccer_mom_gift,soccer_mom_ornament,giftsoccer_ornament,boyssoccer_team_gift",
     "sku": "SKU_056_03",
+    "category": "Coach & Sports",
+    "variations": []
+  },
+  {
+    "id": 311,
+    "title": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 28,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/62385400/r/il/4196fe/7844475926/il_fullxfull.7844475926_9bv1.jpg",
+      "https://i.etsystatic.com/62385400/r/il/5f345c/7892429293/il_fullxfull.7892429293_3jt6.jpg",
+      "https://i.etsystatic.com/62385400/r/il/a228a9/7844475958/il_fullxfull.7844475958_4lek.jpg",
+      "https://i.etsystatic.com/62385400/r/il/3b23de/7892429279/il_fullxfull.7892429279_gw6a.jpg",
+      "https://i.etsystatic.com/62385400/r/il/b4a8ed/7751934670/il_fullxfull.7751934670_k451.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ET131-TB-MC-2026",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Size",
+        "values": [
+          "3X5 INCHES",
+          "4X6 INCHES",
+          "5X7 INCHES",
+          "6X9 INCHES"
+        ]
+      },
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
+    "category": "Coach & Sports"
+  },
+  {
+    "id": 312,
+    "title": "Baseball Cross Blessing Card,Pocket Blessing Baseball Cross,Christian Stitch Cross Token with Verse Card, Faith Gift for Sports Lovers",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 28,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/62385400/r/il/86b0a9/7892317511/il_fullxfull.7892317511_2wz8.jpg",
+      "https://i.etsystatic.com/62385400/r/il/85c6e7/7892317687/il_fullxfull.7892317687_85kl.jpg",
+      "https://i.etsystatic.com/62385400/r/il/6c45e7/7844365274/il_fullxfull.7844365274_qx62.jpg",
+      "https://i.etsystatic.com/62385400/r/il/4f701f/7844365284/il_fullxfull.7844365284_cc3w.jpg",
+      "https://i.etsystatic.com/62385400/r/il/b4a8ed/7751934670/il_fullxfull.7751934670_k451.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ET131-TB-MC-2026",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Size",
+        "values": [
+          "3X5 INCHES",
+          "4X6 INCHES",
+          "5X7 INCHES",
+          "6X9 INCHES"
+        ]
+      },
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
+    "category": "Coach & Sports"
+  },
+  {
+    "id": 313,
+    "title": "Basketball Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Basketball Faith Card, Faith for Sports Lovers",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 28,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/62385400/r/il/eaf361/7844487790/il_fullxfull.7844487790_aidn.jpg",
+      "https://i.etsystatic.com/62385400/r/il/6c1334/7892441409/il_fullxfull.7892441409_5rso.jpg",
+      "https://i.etsystatic.com/62385400/r/il/694864/7892441357/il_fullxfull.7892441357_lyqg.jpg",
+      "https://i.etsystatic.com/62385400/r/il/832ad9/7892441369/il_fullxfull.7892441369_f7rd.jpg",
+      "https://i.etsystatic.com/62385400/r/il/b4a8ed/7751934670/il_fullxfull.7751934670_k451.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ET131-TB-MC-2026",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Size",
+        "values": [
+          "3X5 INCHES",
+          "4X6 INCHES",
+          "5X7 INCHES",
+          "6X9 INCHES"
+        ]
+      },
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
+    "category": "Coach & Sports"
+  },
+  {
+    "id": 314,
+    "title": "Personalized Sports Cross Pocket Blessing - Soccer Rugby Baseball Basketball Token - Handwritten Message Card , Christian Athlete Coach Gift",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 28,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/62385400/r/il/6069e2/7892455939/il_fullxfull.7892455939_lytm.jpg",
+      "https://i.etsystatic.com/62385400/r/il/6c1334/7892441409/il_fullxfull.7892441409_5rso.jpg",
+      "https://i.etsystatic.com/62385400/r/il/5d5652/7844499710/il_fullxfull.7844499710_obk2.jpg",
+      "https://i.etsystatic.com/62385400/r/il/6132aa/7844498662/il_fullxfull.7844498662_sjqw.jpg",
+      "https://i.etsystatic.com/62385400/r/il/b4a8ed/7751934670/il_fullxfull.7751934670_k451.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ET131-TB-MC-2026",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Size",
+        "values": [
+          "3X5 INCHES",
+          "4X6 INCHES",
+          "5X7 INCHES",
+          "6X9 INCHES"
+        ]
+      },
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
+    "category": "Coach & Sports"
+  },
+  {
+    "id": 315,
+    "title": "Personalized Sports Cross Pocket Blessing Aluminium Keychain, Soccer Rugby Baseball Basketball Token, Christian Athlete Coach Gift",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 28,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/62385400/r/il/9a9c50/7873195502/il_fullxfull.7873195502_s3f8.jpg",
+      "https://i.etsystatic.com/62385400/r/il/5b4049/7921153561/il_fullxfull.7921153561_38mo.jpg",
+      "https://i.etsystatic.com/62385400/r/il/d0292c/7921153563/il_fullxfull.7921153563_jc42.jpg",
+      "https://i.etsystatic.com/62385400/r/il/debdec/7921153601/il_fullxfull.7921153601_i70k.jpg",
+      "https://i.etsystatic.com/62385400/r/il/f91b92/7375669357/il_fullxfull.7375669357_sv57.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ETS260-SC-BS-2025",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Size",
+        "values": [
+          "3X5 INCHES",
+          "4X6 INCHES",
+          "5X7 INCHES",
+          "6X9 INCHES"
+        ]
+      },
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
+    "category": "Coach & Sports"
+  },
+  {
+    "id": 316,
+    "title": "Personalized Sports Cross Pocket Blessing Crystal Ball LED Night, Soccer Football Baseball Basketball Token Christian Athlete Coach Gift",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 38,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/62385400/r/il/ebc8fa/7925921069/il_fullxfull.7925921069_mc4u.jpg",
+      "https://i.etsystatic.com/62385400/r/il/11dfb8/7877962386/il_fullxfull.7877962386_kqf3.jpg",
+      "https://i.etsystatic.com/62385400/r/il/a8f082/7877963730/il_fullxfull.7877963730_kw9v.jpg",
+      "https://i.etsystatic.com/62385400/r/il/3218d8/7925920689/il_fullxfull.7925920689_3at2.jpg",
+      "https://i.etsystatic.com/62385400/r/il/01273e/7877963290/il_fullxfull.7877963290_8uka.jpg",
+      "https://i.etsystatic.com/62385400/r/il/54e489/7925922309/il_fullxfull.7925922309_m3k8.jpg",
+      "https://i.etsystatic.com/62385400/r/il/408c64/7837095953/il_fullxfull.7837095953_9vrl.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ET130-TB-CHL-2026",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Size",
+        "values": [
+          "3X5 INCHES",
+          "4X6 INCHES",
+          "5X7 INCHES",
+          "6X9 INCHES"
+        ]
+      },
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
+    "category": "Coach & Sports"
+  },
+  {
+    "id": 317,
+    "title": "Personalized Sports Cross Blessing Block, Christian Athlete Gift, Soccer Rugby Baseball Basketball Token, Christian Athlete Coach Gift",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 48,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/62385400/r/il/47e08f/7872945270/il_fullxfull.7872945270_4fwp.jpg",
+      "https://i.etsystatic.com/62385400/r/il/97a07b/7920901029/il_fullxfull.7920901029_jhn7.jpg",
+      "https://i.etsystatic.com/62385400/r/il/c610a8/7920901083/il_fullxfull.7920901083_hi1l.jpg",
+      "https://i.etsystatic.com/62385400/r/il/f5d39b/7920901121/il_fullxfull.7920901121_sy7u.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ET131-TB-MC-2026",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Size",
+        "values": [
+          "3X5 INCHES",
+          "4X6 INCHES",
+          "5X7 INCHES",
+          "6X9 INCHES"
+        ]
+      },
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
+    "category": "Coach & Sports"
+  },
+  {
+    "id": 318,
+    "title": "Personalized Sports Cross Pocket Blessing - Soccer Rugby Baseball Basketball Token - Handwritten Message Card - Christian Athlete Coach Gift",
+    "description": "Soccer Cross Prayer Card, Pocket Blessing Token for Athlete, Christian Sports Team Gift, Soccer Faith Card, Faith Gift for Sports Lovers\n\nPlease note: This is a high-quality, flat-printed keepsake card featuring a beautiful cross design; it is a 2D pocket token and not a 3D or physical raised object\n\nTurn Your MVP Into a Pro with a Custom Metal Trading Card!\nEver dreamed of seeing your kid, your coach, or even yourself on a professional-grade trading card? Skip the cardboard�our Custom Metal & Holographic Soccer Cards are the ultimate \"big league\" upgrade.\n\nWhether it�s a celebratory end-of-season gift, a senior night keepsake, or a unique way to honor a coach, these cards offer a pro-level shimmer that demands attention. Each card comes pre-protected in a Penny Sleeve and Top Loader, ready for the trophy shelf or the dugout.\n\n? Why This Card is a Home Run:\nPro-Level Finish: Printed on high-quality holographic material for that iconic \"refractor\" shine.\n\nDouble-Sided Customization: Feature one hero shot on both sides, or two different photos for a true front/back experience.\n\nFully Loaded Stats: Personalized with name, jersey number, team, position, and a custom \"highlight reel\" on the back.\n\nTeam Spirit: Our standard design is a sleek Red & Black, but we can color-match your team�s branding! Just message us.\n\n?? How to Order (The Playbook)\nTo ensure your card looks perfect, please include the following details in the \"Add your personalization\" box or via Etsy Messages:\n\n1. Name (First/Last)\n\nHighlights: (List 2-4 fun facts, stats, or \"scouting reports\" for the back of the card!)\n\nColor Request: (Optional: Let us know if you want to swap Red/Black for your team�s specific colors).\n\n?? Photo Instructions\nPlease send your high-resolution photo(s) via Etsy Messages immediately after ordering.\n\n1 Photo: We will use it for both the front and back.\n\n2 Photos: We will use one for the front and one for the back.\n\nPro Tip: We may slightly adjust/darken photos to ensure the holographic effect pops. Avoid photos with heavy direct sunlight (bright white spots), as they don't translate well to the metallic finish.\n\n?? More Than Just Soccer \nWhile these are designed with the diamond in mind, they make incredible keepsakes for:\n\n?? Groomsmen/Bridesmaid Proposals (\"The Roster\")\n\n?? Senior Night & School Photos\n\n?? Anniversaries & Best Friend Gifts\n\n?? Other Sports: Football, Basketball, Soccer, and more!\n\nCheck your Etsy Messages! We pride ourselves on communication. We�ll reach out if we have questions about your photo or stats to make sure your card is a guaranteed hit.",
+    "price": 28,
+    "currency": "USD",
+    "quantity": 17,
+    "images": [
+      "https://i.etsystatic.com/63289332/r/il/7e71ab/7817391178/il_794xN.7817391178_qygg.jpg",
+      "https://i.etsystatic.com/63289332/r/il/2bacc0/7865403467/il_794xN.7865403467_ggk8.jpg",
+      "https://i.etsystatic.com/63289332/r/il/9a504c/7817391426/il_794xN.7817391426_1jql.jpg",
+      "https://i.etsystatic.com/63289332/r/il/d1c28e/7817391414/il_794xN.7817391414_c86v.jpg",
+      "https://i.etsystatic.com/63289332/r/il/b9eee4/7865334761/il_794xN.7865334761_1vg7.jpg"
+    ],
+    "tags": "",
+    "materials": "Acrylic",
+    "sku": "ET131-TB-MC-20263",
+    "variations": [
+      {
+        "type": "Custom Property",
+        "name": "Sport",
+        "values": [
+          "Soccer",
+          "Baseball",
+          "Basketball",
+          "Football",
+          "Tennis",
+          "Volleyball"
+        ]
+      }
+    ],
     "category": "Coach & Sports"
   }
 ];
