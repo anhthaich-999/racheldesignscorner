@@ -127,6 +127,8 @@
 
     if (mode === 'merge') {
       // Merge: keep existing + add new (re-index IDs)
+      // Ensure existing products have variations array
+      existingProducts.forEach(function(p) { if (!p.variations) p.variations = []; });
       var maxId = 0;
       existingProducts.forEach(function(p) { if (p.id > maxId) maxId = p.id; });
       newProducts.forEach(function(p, i) { p.id = maxId + i + 1; });
@@ -185,7 +187,7 @@
     for (var i = start; i < end; i++) {
       var p = products[i];
       var hasError = !p.images.length || p.price === 0;
-      var variantText = p.variations.map(function(v){ return v.name + ': ' + v.values.length; }).join(', ') || '-';
+      var variantText = (p.variations && p.variations.length) ? p.variations.map(function(v){ return v.name + ': ' + v.values.length; }).join(', ') : '-';
       html += '<tr' + (hasError ? ' style="background:rgba(231,76,60,0.05)"' : '') + '>' +
         '<td>' + p.id + '</td>' +
         '<td>' + (p.images[0] ? '<img src="' + p.images[0] + '" class="preview-thumb" loading="lazy">' : '<span class="preview-error">No img</span>') + '</td>' +
@@ -256,12 +258,21 @@
 
   function readFile(file) {
     if (!file.name.endsWith('.csv')) {
-      showToast('Please upload a .csv file');
+      showToast('❌ Please upload a .csv file');
       return;
     }
+    showToast('⏳ Reading CSV file...');
     var reader = new FileReader();
     reader.onload = function (e) {
-      processCSV(e.target.result);
+      try {
+        processCSV(e.target.result);
+      } catch (err) {
+        showToast('❌ Error: ' + err.message);
+        console.error('CSV Parse Error:', err);
+      }
+    };
+    reader.onerror = function () {
+      showToast('❌ Failed to read file');
     };
     reader.readAsText(file, 'UTF-8');
   }
