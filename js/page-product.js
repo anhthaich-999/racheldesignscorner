@@ -82,6 +82,22 @@
     });
   }
 
+  // Variants
+  var variantsEl = document.getElementById('pdVariants');
+  if (variantsEl && product.variations && product.variations.length > 0) {
+    var vhtml = '';
+    product.variations.forEach(function (v, idx) {
+      vhtml += '<div class="pd-variant-group">';
+      vhtml += '<label class="pd-variant-label">' + esc(v.name) + '</label>';
+      vhtml += '<select class="pd-variant-select" id="variant' + idx + '">';
+      v.values.forEach(function (val) {
+        vhtml += '<option value="' + esc(val) + '">' + esc(val) + '</option>';
+      });
+      vhtml += '</select></div>';
+    });
+    variantsEl.innerHTML = vhtml;
+  }
+
   // Quantity buttons
   var qtyInput = document.getElementById('pdQty');
   var qtyMinus = document.getElementById('qtyMinus');

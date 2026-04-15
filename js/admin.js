@@ -90,15 +90,35 @@
         var key = 'IMAGE' + j;
         if (row[key] && row[key].trim()) images.push(row[key].trim());
       }
+      // Parse variations
+      var variations = [];
+      if (row['VARIATION 1 NAME'] && row['VARIATION 1 NAME'].trim()) {
+        variations.push({
+          type: (row['VARIATION 1 TYPE'] || '').trim(),
+          name: (row['VARIATION 1 NAME'] || '').trim(),
+          values: (row['VARIATION 1 VALUES'] || '').split(',').map(function(v){ return v.trim(); }).filter(Boolean)
+        });
+      }
+      if (row['VARIATION 2 NAME'] && row['VARIATION 2 NAME'].trim()) {
+        variations.push({
+          type: (row['VARIATION 2 TYPE'] || '').trim(),
+          name: (row['VARIATION 2 NAME'] || '').trim(),
+          values: (row['VARIATION 2 VALUES'] || '').split(',').map(function(v){ return v.trim(); }).filter(Boolean)
+        });
+      }
+
       return {
         id: idx + 1,
         title: (row.TITLE || '').trim(),
         description: (row.DESCRIPTION || '').trim(),
         price: parseFloat(row.PRICE) || 0,
         currency: (row.CURRENCY_CODE || 'USD').trim(),
+        quantity: parseInt(row.QUANTITY) || 0,
         images: images,
         tags: (row.TAGS || '').trim(),
+        materials: (row.MATERIALS || '').trim(),
         sku: (row.SKU || '').trim(),
+        variations: variations,
         category: categorize(row.TITLE || '')
       };
     });
@@ -152,13 +172,15 @@
     for (var i = start; i < end; i++) {
       var p = products[i];
       var hasError = !p.images.length || p.price === 0;
+      var variantText = p.variations.map(function(v){ return v.name + ': ' + v.values.length; }).join(', ') || '-';
       html += '<tr' + (hasError ? ' style="background:rgba(231,76,60,0.05)"' : '') + '>' +
         '<td>' + p.id + '</td>' +
         '<td>' + (p.images[0] ? '<img src="' + p.images[0] + '" class="preview-thumb" loading="lazy">' : '<span class="preview-error">No img</span>') + '</td>' +
         '<td><span class="preview-title">' + esc(p.title) + '</span></td>' +
         '<td class="preview-price">$' + p.price.toFixed(2) + '</td>' +
         '<td><span class="preview-cat">' + esc(p.category) + '</span></td>' +
-        '<td class="preview-imgs">' + p.images.length + ' imgs</td>' +
+        '<td class="preview-imgs">' + p.images.length + '</td>' +
+        '<td style="font-size:11px;color:var(--text-muted)">' + variantText + '</td>' +
         '</tr>';
     }
     previewBody.innerHTML = html;

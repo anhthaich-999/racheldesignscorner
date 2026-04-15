@@ -151,6 +151,39 @@
   background: var(--accent);
   color: var(--bg-primary);
 }
+/* Variants */
+.pd-variants {
+  margin-bottom: 20px;
+}
+.pd-variant-group {
+  margin-bottom: 14px;
+}
+.pd-variant-label {
+  display: block;
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+.pd-variant-select {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--bg-card);
+  color: var(--text-primary);
+  font-size: 14px;
+  outline: none;
+  cursor: pointer;
+  transition: border-color 0.2s;
+  appearance: auto;
+}
+.pd-variant-select:focus {
+  border-color: var(--accent);
+}
+
 /* Quantity + Buy Now */
 .pd-actions {
   display: flex;
