@@ -307,6 +307,30 @@ tail -f /var/log/nginx/error.log
 
 ---
 
+## 📋 Changelog
+
+### 2026-04-17
+- Fix cache bust `products-data.js?v=2` (browser cache file cũ)
+- Thêm DMCA Premium badge vào product page (giữa giá + Buy It Now)
+
+### 2026-04-15
+- Push lên GitHub + deploy RackNerd server
+- Thêm variant support (CSV VARIATION 1/2)
+- Admin CSV upload: merge mode (giữ data cũ + thêm mới)
+- Upload 8 sản phẩm mới (318 total)
+- Trỏ domain racheldesignscorner.com
+
+### 2026-04-14
+- Tạo website từ scratch (clone weddingbyeli.com structure)
+- 12 trang HTML, 310 sản phẩm, 9 categories
+- Dark/light theme, responsive
+- Checkout page (Shopify-style)
+- Contact, Privacy, Refund, Terms pages
+- Admin CSV upload page
+- DMCA verification + badge
+
+---
+
 ## 🚀 Hướng Phát Triển Tiếp
 
 ### Có thể thêm:
